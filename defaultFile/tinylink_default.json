@@ -1,0 +1,15 @@
+{
+	"nodenum": 10, 
+	
+	"gateway":1,
+
+	"area": {
+
+		"area_x": 1000, 
+
+		"area_y": 1000
+
+		}, 
+
+	"grained": "H"
+}

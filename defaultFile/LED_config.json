@@ -1,0 +1,17 @@
+{
+	"nodenum": 10, 
+
+	"gateway":1,
+
+	
+	"grained": "H",
+
+	"area":{
+		"area_x":1000,
+		"area_y":1000
+	},
+	
+	"hardware":[
+	  	"LED"
+		]
+}

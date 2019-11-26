@@ -1,0 +1,21 @@
+====== Show nodes different state time consumption at 2019-07-15 22:11:36  ======
+[node 1]
+LED_ON:500000 ms                        LED_OFF:499000 ms                       
+[node 2]
+LED_ON:500000 ms                        LED_OFF:499000 ms                       
+[node 3]
+LED_ON:500000 ms                        LED_OFF:499000 ms                       
+[node 4]
+LED_ON:499000 ms                        LED_OFF:499000 ms                       
+[node 5]
+LED_ON:499000 ms                        LED_OFF:499000 ms                       
+[node 6]
+LED_ON:499000 ms                        LED_OFF:499000 ms                       
+[node 7]
+LED_ON:499000 ms                        LED_OFF:498000 ms                       
+[node 8]
+LED_ON:499000 ms                        LED_OFF:498000 ms                       
+[node 9]
+LED_ON:499000 ms                        LED_OFF:498000 ms                       
+[node 10]
+LED_ON:498000 ms                        LED_OFF:498000 ms                       

@@ -1,0 +1,31 @@
+====== Show nodes different state power consumption at 2019-07-15 22:11:36  ======
+[node 1]
+LED_ON:30000mJ                          LED_OFF:0mJ                             
+totalPower:30000mJ
+[node 2]
+LED_ON:30000mJ                          LED_OFF:0mJ                             
+totalPower:30000mJ
+[node 3]
+LED_ON:30000mJ                          LED_OFF:0mJ                             
+totalPower:30000mJ
+[node 4]
+LED_ON:29940mJ                          LED_OFF:0mJ                             
+totalPower:29940mJ
+[node 5]
+LED_ON:29940mJ                          LED_OFF:0mJ                             
+totalPower:29940mJ
+[node 6]
+LED_ON:29940mJ                          LED_OFF:0mJ                             
+totalPower:29940mJ
+[node 7]
+LED_ON:29940mJ                          LED_OFF:0mJ                             
+totalPower:29940mJ
+[node 8]
+LED_ON:29940mJ                          LED_OFF:0mJ                             
+totalPower:29940mJ
+[node 9]
+LED_ON:29940mJ                          LED_OFF:0mJ                             
+totalPower:29940mJ
+[node 10]
+LED_ON:29880mJ                          LED_OFF:0mJ                             
+totalPower:29880mJ

@@ -1,0 +1,21 @@
+====== Show  all nodes state at 2019-07-15 22:11:36  ======
+[node 1] 
+ LED state: LED_OFF
+[node 2] 
+ LED state: LED_OFF
+[node 3] 
+ LED state: LED_OFF
+[node 4] 
+ LED state: LED_ON
+[node 5] 
+ LED state: LED_ON
+[node 6] 
+ LED state: LED_ON
+[node 7] 
+ LED state: LED_OFF
+[node 8] 
+ LED state: LED_OFF
+[node 9] 
+ LED state: LED_OFF
+[node 10] 
+ LED state: LED_ON

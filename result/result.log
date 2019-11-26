@@ -1,0 +1,12 @@
+
+====== Show  all nodes state at 2018-09-06 16:54:28  ======  simulation is running in background...
+[node 1]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 2]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 3]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 4]  lock state: UnLocked GPS state: GPS_Sleep NB state: NB_sleep
+[node 5]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 6]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 7]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 8]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 9]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep
+[node 10]  lock state: Locked GPS state: GPS_Sleep NB state: NB_sleep

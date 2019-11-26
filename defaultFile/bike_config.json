@@ -1,0 +1,28 @@
+{
+	"nodenum": 10, 
+	
+	"gateway":2,
+
+	"area": {
+
+		"area_x": 1000, 
+
+		"area_y": 1000
+
+		},
+	"executeMode": "VIRTUAL", 
+
+	"executeTime": "100", 
+
+	"grained": "H",
+
+	"hardware":[
+
+	  	"LOCK",
+ 	
+	  	"GPS",
+
+		 "NB"
+
+		]
+}

@@ -1,0 +1,2001 @@
+====== Show nodes different state power consumption at 2018-10-29 23:19:53  ======
+[node 1]
+NB_idle:0mJ                             NB_send:4.38889mJ                       NB_receive:2.14622mJ                    NB_sleep:1.75865mJ                      
+NB_listen:12.0574mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:600mJ                   GPS_Tracking:525mJ                      GPS_Sleep:1.33803mJ                     
+totalPower:1146.69mJ
+[node 2]
+NB_idle:0mJ                             NB_send:4.37684mJ                       NB_receive:2.11004mJ                    NB_sleep:1.75868mJ                      
+NB_listen:12.0574mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:600mJ                   GPS_Tracking:525mJ                      GPS_Sleep:1.33803mJ                     
+totalPower:1146.64mJ
+[node 3]
+NB_idle:0mJ                             NB_send:4.36478mJ                       NB_receive:2.1221mJ                     NB_sleep:1.74094mJ                      
+NB_listen:11.9368mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:594mJ                   GPS_Tracking:519.75mJ                   GPS_Sleep:1.32453mJ                     
+totalPower:1135.24mJ
+[node 4]
+NB_idle:0mJ                             NB_send:4.25626mJ                       NB_receive:1.98947mJ                    NB_sleep:1.74097mJ                      
+NB_listen:11.9368mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:594mJ                   GPS_Tracking:519.75mJ                   GPS_Sleep:1.32453mJ                     
+totalPower:1135mJ
+[node 5]
+NB_idle:0mJ                             NB_send:4.31655mJ                       NB_receive:2.04976mJ                    NB_sleep:1.74097mJ                      
+NB_listen:11.9368mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:594mJ                   GPS_Tracking:519.75mJ                   GPS_Sleep:1.32453mJ                     
+totalPower:1135.12mJ
+[node 6]
+NB_idle:0mJ                             NB_send:4.31655mJ                       NB_receive:2.04976mJ                    NB_sleep:1.74097mJ                      
+NB_listen:11.9368mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:594mJ                   GPS_Tracking:519.75mJ                   GPS_Sleep:1.32453mJ                     
+totalPower:1135.12mJ
+[node 7]
+NB_idle:0mJ                             NB_send:4.31655mJ                       NB_receive:2.07387mJ                    NB_sleep:1.72322mJ                      
+NB_listen:11.8163mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:588mJ                   GPS_Tracking:514.5mJ                    GPS_Sleep:1.31103mJ                     
+totalPower:1123.74mJ
+[node 8]
+NB_idle:0mJ                             NB_send:4.25626mJ                       NB_receive:2.01359mJ                    NB_sleep:1.72322mJ                      
+NB_listen:11.8163mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:588mJ                   GPS_Tracking:514.5mJ                    GPS_Sleep:1.31103mJ                     
+totalPower:1123.62mJ
+[node 9]
+NB_idle:0mJ                             NB_send:4.26832mJ                       NB_receive:2.02564mJ                    NB_sleep:1.72322mJ                      
+NB_listen:11.8163mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:588mJ                   GPS_Tracking:514.5mJ                    GPS_Sleep:1.31103mJ                     
+totalPower:1123.64mJ
+[node 10]
+NB_idle:0mJ                             NB_send:4.19598mJ                       NB_receive:1.97741mJ                    NB_sleep:1.70548mJ                      
+NB_listen:11.6957mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:582mJ                   GPS_Tracking:509.25mJ                   GPS_Sleep:1.29753mJ                     
+totalPower:1112.12mJ
+[node 11]
+NB_idle:0mJ                             NB_send:4.78679mJ                       NB_receive:2.52mJ                       NB_sleep:1.70555mJ                      
+NB_listen:11.6957mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:582mJ                   GPS_Tracking:509.25mJ                   GPS_Sleep:1.29753mJ                     
+totalPower:1113.26mJ
+[node 12]
+NB_idle:0mJ                             NB_send:4.2442mJ                        NB_receive:1.97741mJ                    NB_sleep:1.70555mJ                      
+NB_listen:11.6957mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:582mJ                   GPS_Tracking:509.25mJ                   GPS_Sleep:1.29753mJ                     
+totalPower:1112.17mJ
+[node 13]
+NB_idle:0mJ                             NB_send:4.14775mJ                       NB_receive:1.90507mJ                    NB_sleep:1.6878mJ                       
+NB_listen:11.5751mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:576mJ                   GPS_Tracking:504mJ                      GPS_Sleep:1.28403mJ                     
+totalPower:1100.6mJ
+[node 14]
+NB_idle:0mJ                             NB_send:4.13569mJ                       NB_receive:1.89301mJ                    NB_sleep:1.6878mJ                       
+NB_listen:11.5751mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:576mJ                   GPS_Tracking:504mJ                      GPS_Sleep:1.28403mJ                     
+totalPower:1100.58mJ
+[node 15]
+NB_idle:0mJ                             NB_send:4.03923mJ                       NB_receive:1.79655mJ                    NB_sleep:1.6878mJ                       
+NB_listen:11.5751mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:576mJ                   GPS_Tracking:504mJ                      GPS_Sleep:1.28403mJ                     
+totalPower:1100.38mJ
+[node 16]
+NB_idle:0mJ                             NB_send:4.23215mJ                       NB_receive:1.98947mJ                    NB_sleep:1.6878mJ                       
+NB_listen:11.5751mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:576mJ                   GPS_Tracking:504mJ                      GPS_Sleep:1.28403mJ                     
+totalPower:1100.77mJ
+[node 17]
+NB_idle:0mJ                             NB_send:4.11157mJ                       NB_receive:1.89301mJ                    NB_sleep:1.67005mJ                      
+NB_listen:11.4545mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:570mJ                   GPS_Tracking:498.75mJ                   GPS_Sleep:1.27053mJ                     
+totalPower:1089.15mJ
+[node 18]
+NB_idle:0mJ                             NB_send:4.05129mJ                       NB_receive:1.83272mJ                    NB_sleep:1.67005mJ                      
+NB_listen:11.4545mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:570mJ                   GPS_Tracking:498.75mJ                   GPS_Sleep:1.27053mJ                     
+totalPower:1089.03mJ
+[node 19]
+NB_idle:0mJ                             NB_send:6.49894mJ                       NB_receive:4.28038mJ                    NB_sleep:1.67005mJ                      
+NB_listen:11.4545mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:570mJ                   GPS_Tracking:498.75mJ                   GPS_Sleep:1.27053mJ                     
+totalPower:1093.92mJ
+[node 20]
+NB_idle:0mJ                             NB_send:4.0754mJ                        NB_receive:1.88095mJ                    NB_sleep:1.65231mJ                      
+NB_listen:11.334mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:564mJ                   GPS_Tracking:493.5mJ                    GPS_Sleep:1.25703mJ                     
+totalPower:1077.7mJ
+[node 21]
+NB_idle:0mJ                             NB_send:4.13569mJ                       NB_receive:1.94124mJ                    NB_sleep:1.65231mJ                      
+NB_listen:11.334mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:564mJ                   GPS_Tracking:493.5mJ                    GPS_Sleep:1.25703mJ                     
+totalPower:1077.82mJ
+[node 22]
+NB_idle:0mJ                             NB_send:4.17186mJ                       NB_receive:1.97741mJ                    NB_sleep:1.65231mJ                      
+NB_listen:11.334mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:564mJ                   GPS_Tracking:493.5mJ                    GPS_Sleep:1.25703mJ                     
+totalPower:1077.89mJ
+[node 23]
+NB_idle:0mJ                             NB_send:4.14775mJ                       NB_receive:1.97741mJ                    NB_sleep:1.63456mJ                      
+NB_listen:11.2134mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:558mJ                   GPS_Tracking:488.25mJ                   GPS_Sleep:1.24353mJ                     
+totalPower:1066.47mJ
+[node 24]
+NB_idle:0mJ                             NB_send:3.97894mJ                       NB_receive:1.80861mJ                    NB_sleep:1.63456mJ                      
+NB_listen:11.2134mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:558mJ                   GPS_Tracking:488.25mJ                   GPS_Sleep:1.24353mJ                     
+totalPower:1066.13mJ
+[node 25]
+NB_idle:0mJ                             NB_send:3.97894mJ                       NB_receive:1.80861mJ                    NB_sleep:1.63456mJ                      
+NB_listen:11.2134mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:558mJ                   GPS_Tracking:488.25mJ                   GPS_Sleep:1.24353mJ                     
+totalPower:1066.13mJ
+[node 26]
+NB_idle:0mJ                             NB_send:4.01511mJ                       NB_receive:1.84478mJ                    NB_sleep:1.63456mJ                      
+NB_listen:11.2134mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:558mJ                   GPS_Tracking:488.25mJ                   GPS_Sleep:1.24353mJ                     
+totalPower:1066.2mJ
+[node 27]
+NB_idle:0mJ                             NB_send:3.95483mJ                       NB_receive:1.80861mJ                    NB_sleep:1.61681mJ                      
+NB_listen:11.0928mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:552mJ                   GPS_Tracking:483mJ                      GPS_Sleep:1.23003mJ                     
+totalPower:1054.7mJ
+[node 28]
+NB_idle:0mJ                             NB_send:3.96688mJ                       NB_receive:1.82067mJ                    NB_sleep:1.61681mJ                      
+NB_listen:11.0928mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:552mJ                   GPS_Tracking:483mJ                      GPS_Sleep:1.23003mJ                     
+totalPower:1054.73mJ
+[node 29]
+NB_idle:0mJ                             NB_send:4.12363mJ                       NB_receive:1.97741mJ                    NB_sleep:1.61681mJ                      
+NB_listen:11.0928mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:552mJ                   GPS_Tracking:483mJ                      GPS_Sleep:1.23003mJ                     
+totalPower:1055.04mJ
+[node 30]
+NB_idle:0mJ                             NB_send:3.96688mJ                       NB_receive:1.84478mJ                    NB_sleep:1.59907mJ                      
+NB_listen:10.9722mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:546mJ                   GPS_Tracking:477.75mJ                   GPS_Sleep:1.21653mJ                     
+totalPower:1043.35mJ
+[node 31]
+NB_idle:0mJ                             NB_send:6.96918mJ                       NB_receive:4.84707mJ                    NB_sleep:1.59907mJ                      
+NB_listen:10.9722mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:546mJ                   GPS_Tracking:477.75mJ                   GPS_Sleep:1.21653mJ                     
+totalPower:1049.35mJ
+[node 32]
+NB_idle:0mJ                             NB_send:3.991mJ                         NB_receive:1.8689mJ                     NB_sleep:1.59907mJ                      
+NB_listen:10.9722mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:546mJ                   GPS_Tracking:477.75mJ                   GPS_Sleep:1.21653mJ                     
+totalPower:1043.4mJ
+[node 33]
+NB_idle:0mJ                             NB_send:3.91865mJ                       NB_receive:1.82067mJ                    NB_sleep:1.58132mJ                      
+NB_listen:10.8517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:540mJ                   GPS_Tracking:472.5mJ                    GPS_Sleep:1.20303mJ                     
+totalPower:1031.88mJ
+[node 34]
+NB_idle:0mJ                             NB_send:3.93071mJ                       NB_receive:1.83272mJ                    NB_sleep:1.58132mJ                      
+NB_listen:10.8517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:540mJ                   GPS_Tracking:472.5mJ                    GPS_Sleep:1.20303mJ                     
+totalPower:1031.9mJ
+[node 35]
+NB_idle:0mJ                             NB_send:3.87043mJ                       NB_receive:1.77244mJ                    NB_sleep:1.58132mJ                      
+NB_listen:10.8517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:540mJ                   GPS_Tracking:472.5mJ                    GPS_Sleep:1.20303mJ                     
+totalPower:1031.78mJ
+[node 36]
+NB_idle:0mJ                             NB_send:3.79808mJ                       NB_receive:1.70009mJ                    NB_sleep:1.58132mJ                      
+NB_listen:10.8517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:540mJ                   GPS_Tracking:472.5mJ                    GPS_Sleep:1.20303mJ                     
+totalPower:1031.63mJ
+[node 37]
+NB_idle:0mJ                             NB_send:3.93071mJ                       NB_receive:1.85684mJ                    NB_sleep:1.56357mJ                      
+NB_listen:10.7311mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:534mJ                   GPS_Tracking:467.25mJ                   GPS_Sleep:1.18953mJ                     
+totalPower:1036.03mJ
+[node 38]
+NB_idle:0mJ                             NB_send:4.0754mJ                        NB_receive:2.00153mJ                    NB_sleep:1.56357mJ                      
+NB_listen:10.7311mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:534mJ                   GPS_Tracking:467.25mJ                   GPS_Sleep:1.18953mJ                     
+totalPower:1020.81mJ
+[node 39]
+NB_idle:0mJ                             NB_send:3.79808mJ                       NB_receive:1.72421mJ                    NB_sleep:1.56357mJ                      
+NB_listen:10.7311mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:534mJ                   GPS_Tracking:467.25mJ                   GPS_Sleep:1.18953mJ                     
+totalPower:1020.26mJ
+[node 40]
+NB_idle:0mJ                             NB_send:3.84631mJ                       NB_receive:1.79655mJ                    NB_sleep:1.54583mJ                      
+NB_listen:10.6105mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:528mJ                   GPS_Tracking:462mJ                      GPS_Sleep:1.17603mJ                     
+totalPower:1008.98mJ
+[node 41]
+NB_idle:0mJ                             NB_send:3.8222mJ                        NB_receive:1.77244mJ                    NB_sleep:1.54583mJ                      
+NB_listen:10.6105mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:528mJ                   GPS_Tracking:462mJ                      GPS_Sleep:1.17603mJ                     
+totalPower:1008.93mJ
+[node 42]
+NB_idle:0mJ                             NB_send:4.01511mJ                       NB_receive:1.96536mJ                    NB_sleep:1.54583mJ                      
+NB_listen:10.6105mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:528mJ                   GPS_Tracking:462mJ                      GPS_Sleep:1.17603mJ                     
+totalPower:1009.31mJ
+[node 43]
+NB_idle:0mJ                             NB_send:3.84631mJ                       NB_receive:1.82067mJ                    NB_sleep:1.52808mJ                      
+NB_listen:10.4899mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:522mJ                   GPS_Tracking:456.75mJ                   GPS_Sleep:1.16253mJ                     
+totalPower:997.598mJ
+[node 44]
+NB_idle:0mJ                             NB_send:3.91865mJ                       NB_receive:1.89301mJ                    NB_sleep:1.52808mJ                      
+NB_listen:10.4899mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:522mJ                   GPS_Tracking:456.75mJ                   GPS_Sleep:1.16253mJ                     
+totalPower:997.742mJ
+[node 45]
+NB_idle:0mJ                             NB_send:3.84631mJ                       NB_receive:1.82067mJ                    NB_sleep:1.52808mJ                      
+NB_listen:10.4899mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:522mJ                   GPS_Tracking:456.75mJ                   GPS_Sleep:1.16253mJ                     
+totalPower:997.598mJ
+[node 46]
+NB_idle:0mJ                             NB_send:3.83425mJ                       NB_receive:1.80861mJ                    NB_sleep:1.52808mJ                      
+NB_listen:10.4899mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:522mJ                   GPS_Tracking:456.75mJ                   GPS_Sleep:1.16253mJ                     
+totalPower:997.573mJ
+[node 47]
+NB_idle:0mJ                             NB_send:3.79808mJ                       NB_receive:1.79655mJ                    NB_sleep:1.51033mJ                      
+NB_listen:10.3694mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:516mJ                   GPS_Tracking:451.5mJ                    GPS_Sleep:1.14903mJ                     
+totalPower:986.123mJ
+[node 48]
+NB_idle:0mJ                             NB_send:3.72574mJ                       NB_receive:1.72421mJ                    NB_sleep:1.51033mJ                      
+NB_listen:10.3694mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:516mJ                   GPS_Tracking:451.5mJ                    GPS_Sleep:1.14903mJ                     
+totalPower:985.979mJ
+[node 49]
+NB_idle:0mJ                             NB_send:3.73779mJ                       NB_receive:1.73627mJ                    NB_sleep:1.51033mJ                      
+NB_listen:10.3694mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:516mJ                   GPS_Tracking:451.5mJ                    GPS_Sleep:1.14903mJ                     
+totalPower:986.003mJ
+[node 50]
+NB_idle:0mJ                             NB_send:3.64133mJ                       NB_receive:1.66392mJ                    NB_sleep:1.49258mJ                      
+NB_listen:10.2488mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:510mJ                   GPS_Tracking:446.25mJ                   GPS_Sleep:1.13553mJ                     
+totalPower:974.432mJ
+[node 51]
+NB_idle:0mJ                             NB_send:3.74985mJ                       NB_receive:1.77244mJ                    NB_sleep:1.49258mJ                      
+NB_listen:10.2488mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:510mJ                   GPS_Tracking:446.25mJ                   GPS_Sleep:1.13553mJ                     
+totalPower:974.649mJ
+[node 52]
+NB_idle:0mJ                             NB_send:3.71368mJ                       NB_receive:1.73627mJ                    NB_sleep:1.49258mJ                      
+NB_listen:10.2488mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:510mJ                   GPS_Tracking:446.25mJ                   GPS_Sleep:1.13553mJ                     
+totalPower:974.577mJ
+[node 53]
+NB_idle:0mJ                             NB_send:3.61722mJ                       NB_receive:1.66392mJ                    NB_sleep:1.47484mJ                      
+NB_listen:10.1282mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:504mJ                   GPS_Tracking:441mJ                      GPS_Sleep:1.12203mJ                     
+totalPower:963.006mJ
+[node 54]
+NB_idle:0mJ                             NB_send:3.64133mJ                       NB_receive:1.68804mJ                    NB_sleep:1.47484mJ                      
+NB_listen:10.1282mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:504mJ                   GPS_Tracking:441mJ                      GPS_Sleep:1.12203mJ                     
+totalPower:963.054mJ
+[node 55]
+NB_idle:0mJ                             NB_send:3.73779mJ                       NB_receive:1.7845mJ                     NB_sleep:1.47484mJ                      
+NB_listen:10.1282mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:504mJ                   GPS_Tracking:441mJ                      GPS_Sleep:1.12203mJ                     
+totalPower:963.247mJ
+[node 56]
+NB_idle:0mJ                             NB_send:3.78602mJ                       NB_receive:1.83272mJ                    NB_sleep:1.47484mJ                      
+NB_listen:10.1282mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:504mJ                   GPS_Tracking:441mJ                      GPS_Sleep:1.12203mJ                     
+totalPower:963.344mJ
+[node 57]
+NB_idle:0mJ                             NB_send:3.56899mJ                       NB_receive:1.63981mJ                    NB_sleep:1.45709mJ                      
+NB_listen:10.0076mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:498mJ                   GPS_Tracking:435.75mJ                   GPS_Sleep:1.10853mJ                     
+totalPower:951.532mJ
+[node 58]
+NB_idle:0mJ                             NB_send:3.58105mJ                       NB_receive:1.65186mJ                    NB_sleep:1.45709mJ                      
+NB_listen:10.0076mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:498mJ                   GPS_Tracking:435.75mJ                   GPS_Sleep:1.10853mJ                     
+totalPower:951.556mJ
+[node 59]
+NB_idle:0mJ                             NB_send:3.65339mJ                       NB_receive:1.72421mJ                    NB_sleep:1.45709mJ                      
+NB_listen:10.0076mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:498mJ                   GPS_Tracking:435.75mJ                   GPS_Sleep:1.10853mJ                     
+totalPower:951.701mJ
+[node 60]
+NB_idle:0mJ                             NB_send:3.59311mJ                       NB_receive:1.68804mJ                    NB_sleep:1.43934mJ                      
+NB_listen:9.88707mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:492mJ                   GPS_Tracking:430.5mJ                    GPS_Sleep:1.09503mJ                     
+totalPower:940.203mJ
+[node 61]
+NB_idle:0mJ                             NB_send:3.60516mJ                       NB_receive:1.70009mJ                    NB_sleep:1.43934mJ                      
+NB_listen:9.88707mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:492mJ                   GPS_Tracking:430.5mJ                    GPS_Sleep:1.09503mJ                     
+totalPower:940.227mJ
+[node 62]
+NB_idle:0mJ                             NB_send:7.05358mJ                       NB_receive:5.14851mJ                    NB_sleep:1.43934mJ                      
+NB_listen:9.88707mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:492mJ                   GPS_Tracking:430.5mJ                    GPS_Sleep:1.09503mJ                     
+totalPower:947.124mJ
+[node 63]
+NB_idle:0mJ                             NB_send:3.61722mJ                       NB_receive:1.73627mJ                    NB_sleep:1.4216mJ                       
+NB_listen:9.76649mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:486mJ                   GPS_Tracking:425.25mJ                   GPS_Sleep:1.08153mJ                     
+totalPower:928.873mJ
+[node 64]
+NB_idle:0mJ                             NB_send:3.48459mJ                       NB_receive:1.60363mJ                    NB_sleep:1.4216mJ                       
+NB_listen:9.76649mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:486mJ                   GPS_Tracking:425.25mJ                   GPS_Sleep:1.08153mJ                     
+totalPower:928.608mJ
+[node 65]
+NB_idle:0mJ                             NB_send:7.3309mJ                        NB_receive:5.44994mJ                    NB_sleep:1.4216mJ                       
+NB_listen:9.76649mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:486mJ                   GPS_Tracking:425.25mJ                   GPS_Sleep:1.08153mJ                     
+totalPower:936.3mJ
+[node 66]
+NB_idle:0mJ                             NB_send:3.5087mJ                        NB_receive:1.62775mJ                    NB_sleep:1.4216mJ                       
+NB_listen:9.76649mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:486mJ                   GPS_Tracking:425.25mJ                   GPS_Sleep:1.08153mJ                     
+totalPower:928.656mJ
+[node 67]
+NB_idle:0mJ                             NB_send:3.53282mJ                       NB_receive:1.67598mJ                    NB_sleep:1.40385mJ                      
+NB_listen:9.64592mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:480mJ                   GPS_Tracking:420mJ                      GPS_Sleep:1.06803mJ                     
+totalPower:917.327mJ
+[node 68]
+NB_idle:0mJ                             NB_send:3.4243mJ                        NB_receive:1.56746mJ                    NB_sleep:1.40385mJ                      
+NB_listen:9.64592mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:480mJ                   GPS_Tracking:420mJ                      GPS_Sleep:1.06803mJ                     
+totalPower:917.11mJ
+[node 69]
+NB_idle:0mJ                             NB_send:3.58105mJ                       NB_receive:1.72421mJ                    NB_sleep:1.40385mJ                      
+NB_listen:9.64592mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:480mJ                   GPS_Tracking:420mJ                      GPS_Sleep:1.06803mJ                     
+totalPower:917.423mJ
+[node 70]
+NB_idle:0mJ                             NB_send:3.37607mJ                       NB_receive:1.54335mJ                    NB_sleep:1.3861mJ                       
+NB_listen:9.52535mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:474mJ                   GPS_Tracking:414.75mJ                   GPS_Sleep:1.05453mJ                     
+totalPower:905.635mJ
+[node 71]
+NB_idle:0mJ                             NB_send:3.49665mJ                       NB_receive:1.66392mJ                    NB_sleep:1.3861mJ                       
+NB_listen:9.52535mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:474mJ                   GPS_Tracking:414.75mJ                   GPS_Sleep:1.05453mJ                     
+totalPower:905.877mJ
+[node 72]
+NB_idle:0mJ                             NB_send:3.44842mJ                       NB_receive:1.61569mJ                    NB_sleep:1.3861mJ                       
+NB_listen:9.52535mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:474mJ                   GPS_Tracking:414.75mJ                   GPS_Sleep:1.05453mJ                     
+totalPower:905.78mJ
+[node 73]
+NB_idle:0mJ                             NB_send:3.38813mJ                       NB_receive:1.57952mJ                    NB_sleep:1.36835mJ                      
+NB_listen:9.40477mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:468mJ                   GPS_Tracking:409.5mJ                    GPS_Sleep:1.04103mJ                     
+totalPower:894.282mJ
+[node 74]
+NB_idle:0mJ                             NB_send:3.44842mJ                       NB_receive:1.63981mJ                    NB_sleep:1.36835mJ                      
+NB_listen:9.40477mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:468mJ                   GPS_Tracking:409.5mJ                    GPS_Sleep:1.04103mJ                     
+totalPower:909.91mJ
+[node 75]
+NB_idle:0mJ                             NB_send:3.35196mJ                       NB_receive:1.54335mJ                    NB_sleep:1.36835mJ                      
+NB_listen:9.40477mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:468mJ                   GPS_Tracking:409.5mJ                    GPS_Sleep:1.04103mJ                     
+totalPower:894.209mJ
+[node 76]
+NB_idle:0mJ                             NB_send:3.41224mJ                       NB_receive:1.60363mJ                    NB_sleep:1.36835mJ                      
+NB_listen:9.40477mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:468mJ                   GPS_Tracking:409.5mJ                    GPS_Sleep:1.04103mJ                     
+totalPower:894.33mJ
+[node 77]
+NB_idle:0mJ                             NB_send:3.32784mJ                       NB_receive:1.54335mJ                    NB_sleep:1.35061mJ                      
+NB_listen:9.2842mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:462mJ                   GPS_Tracking:404.25mJ                   GPS_Sleep:1.02753mJ                     
+totalPower:882.784mJ
+[node 78]
+NB_idle:0mJ                             NB_send:3.40019mJ                       NB_receive:1.61569mJ                    NB_sleep:1.35061mJ                      
+NB_listen:9.2842mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:462mJ                   GPS_Tracking:404.25mJ                   GPS_Sleep:1.02753mJ                     
+totalPower:882.928mJ
+[node 79]
+NB_idle:0mJ                             NB_send:85.2699mJ                       NB_receive:83.4854mJ                    NB_sleep:1.35061mJ                      
+NB_listen:9.2842mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:462mJ                   GPS_Tracking:404.25mJ                   GPS_Sleep:1.02753mJ                     
+totalPower:1046.67mJ
+[node 80]
+NB_idle:0mJ                             NB_send:3.31578mJ                       NB_receive:1.5554mJ                     NB_sleep:1.33286mJ                      
+NB_listen:9.16362mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:456mJ                   GPS_Tracking:399mJ                      GPS_Sleep:1.01403mJ                     
+totalPower:871.382mJ
+[node 81]
+NB_idle:0mJ                             NB_send:3.26756mJ                       NB_receive:1.50717mJ                    NB_sleep:1.33286mJ                      
+NB_listen:9.16362mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:456mJ                   GPS_Tracking:399mJ                      GPS_Sleep:1.01403mJ                     
+totalPower:871.285mJ
+[node 82]
+NB_idle:0mJ                             NB_send:3.48459mJ                       NB_receive:1.72421mJ                    NB_sleep:1.33286mJ                      
+NB_listen:9.16362mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:456mJ                   GPS_Tracking:399mJ                      GPS_Sleep:1.01403mJ                     
+totalPower:871.719mJ
+[node 83]
+NB_idle:0mJ                             NB_send:3.29167mJ                       NB_receive:1.5554mJ                     NB_sleep:1.31511mJ                      
+NB_listen:9.04305mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:450mJ                   GPS_Tracking:393.75mJ                   GPS_Sleep:1.00053mJ                     
+totalPower:859.956mJ
+[node 84]
+NB_idle:0mJ                             NB_send:3.32784mJ                       NB_receive:1.59158mJ                    NB_sleep:1.31511mJ                      
+NB_listen:9.04305mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:450mJ                   GPS_Tracking:393.75mJ                   GPS_Sleep:1.00053mJ                     
+totalPower:860.028mJ
+[node 85]
+NB_idle:0mJ                             NB_send:3.31578mJ                       NB_receive:1.57952mJ                    NB_sleep:1.31511mJ                      
+NB_listen:9.04305mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:450mJ                   GPS_Tracking:393.75mJ                   GPS_Sleep:1.00053mJ                     
+totalPower:860.004mJ
+[node 86]
+NB_idle:0mJ                             NB_send:3.27961mJ                       NB_receive:1.54335mJ                    NB_sleep:1.31511mJ                      
+NB_listen:9.04305mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:450mJ                   GPS_Tracking:393.75mJ                   GPS_Sleep:1.00053mJ                     
+totalPower:859.932mJ
+[node 87]
+NB_idle:0mJ                             NB_send:3.1711mJ                        NB_receive:1.45895mJ                    NB_sleep:1.29737mJ                      
+NB_listen:8.92248mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:444mJ                   GPS_Tracking:388.5mJ                    GPS_Sleep:0.98703mJ                     
+totalPower:848.337mJ
+[node 88]
+NB_idle:0mJ                             NB_send:3.19521mJ                       NB_receive:1.48306mJ                    NB_sleep:1.29737mJ                      
+NB_listen:8.92248mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:444mJ                   GPS_Tracking:388.5mJ                    GPS_Sleep:0.98703mJ                     
+totalPower:848.385mJ
+[node 89]
+NB_idle:0mJ                             NB_send:3.26756mJ                       NB_receive:1.5554mJ                     NB_sleep:1.29737mJ                      
+NB_listen:8.92248mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:444mJ                   GPS_Tracking:388.5mJ                    GPS_Sleep:0.98703mJ                     
+totalPower:848.53mJ
+[node 90]
+NB_idle:0mJ                             NB_send:3.20727mJ                       NB_receive:1.51923mJ                    NB_sleep:1.27962mJ                      
+NB_listen:8.8019mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:438mJ                   GPS_Tracking:383.25mJ                   GPS_Sleep:0.97353mJ                     
+totalPower:837.032mJ
+[node 91]
+NB_idle:0mJ                             NB_send:3.20727mJ                       NB_receive:1.51923mJ                    NB_sleep:1.27962mJ                      
+NB_listen:8.8019mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:438mJ                   GPS_Tracking:383.25mJ                   GPS_Sleep:0.97353mJ                     
+totalPower:837.032mJ
+[node 92]
+NB_idle:0mJ                             NB_send:3.26756mJ                       NB_receive:1.57952mJ                    NB_sleep:1.27962mJ                      
+NB_listen:8.8019mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:438mJ                   GPS_Tracking:383.25mJ                   GPS_Sleep:0.97353mJ                     
+totalPower:837.152mJ
+[node 93]
+NB_idle:0mJ                             NB_send:3.18315mJ                       NB_receive:1.51923mJ                    NB_sleep:1.26187mJ                      
+NB_listen:8.68133mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:432mJ                   GPS_Tracking:378mJ                      GPS_Sleep:0.96003mJ                     
+totalPower:825.606mJ
+[node 94]
+NB_idle:0mJ                             NB_send:3.12287mJ                       NB_receive:1.45895mJ                    NB_sleep:1.26187mJ                      
+NB_listen:8.68133mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:432mJ                   GPS_Tracking:378mJ                      GPS_Sleep:0.96003mJ                     
+totalPower:825.485mJ
+[node 95]
+NB_idle:0mJ                             NB_send:3.27961mJ                       NB_receive:1.61569mJ                    NB_sleep:1.26187mJ                      
+NB_listen:8.68133mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:432mJ                   GPS_Tracking:378mJ                      GPS_Sleep:0.96003mJ                     
+totalPower:825.799mJ
+[node 96]
+NB_idle:0mJ                             NB_send:3.23138mJ                       NB_receive:1.56746mJ                    NB_sleep:1.26187mJ                      
+NB_listen:8.68133mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:432mJ                   GPS_Tracking:378mJ                      GPS_Sleep:0.96003mJ                     
+totalPower:825.702mJ
+[node 97]
+NB_idle:0mJ                             NB_send:3.15904mJ                       NB_receive:1.51923mJ                    NB_sleep:1.24413mJ                      
+NB_listen:8.56075mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:15.39mJ                      LOCK_OPEN:15.6256mJ                     
+GPS_Acquisition:426mJ                   GPS_Tracking:372.75mJ                   GPS_Sleep:0.94653mJ                     
+totalPower:845.195mJ
+[node 98]
+NB_idle:0mJ                             NB_send:3.14698mJ                       NB_receive:1.50717mJ                    NB_sleep:1.24413mJ                      
+NB_listen:8.56075mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:426mJ                   GPS_Tracking:372.75mJ                   GPS_Sleep:0.94653mJ                     
+totalPower:814.156mJ
+[node 99]
+NB_idle:0mJ                             NB_send:3.08669mJ                       NB_receive:1.44689mJ                    NB_sleep:1.24413mJ                      
+NB_listen:8.56075mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:426mJ                   GPS_Tracking:372.75mJ                   GPS_Sleep:0.94653mJ                     
+totalPower:814.035mJ
+[node 100]
+NB_idle:0mJ                             NB_send:3.07464mJ                       NB_receive:1.45895mJ                    NB_sleep:1.22638mJ                      
+NB_listen:8.44018mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:420mJ                   GPS_Tracking:367.5mJ                    GPS_Sleep:0.93303mJ                     
+totalPower:802.633mJ
+[node 101]
+NB_idle:0mJ                             NB_send:3.07464mJ                       NB_receive:1.45895mJ                    NB_sleep:1.22638mJ                      
+NB_listen:8.44018mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:420mJ                   GPS_Tracking:367.5mJ                    GPS_Sleep:0.93303mJ                     
+totalPower:802.633mJ
+[node 102]
+NB_idle:0mJ                             NB_send:3.05052mJ                       NB_receive:1.43483mJ                    NB_sleep:1.22638mJ                      
+NB_listen:8.44018mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:420mJ                   GPS_Tracking:367.5mJ                    GPS_Sleep:0.93303mJ                     
+totalPower:802.585mJ
+[node 103]
+NB_idle:0mJ                             NB_send:3.18315mJ                       NB_receive:1.59158mJ                    NB_sleep:1.20863mJ                      
+NB_listen:8.31961mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:414mJ                   GPS_Tracking:362.25mJ                   GPS_Sleep:0.91953mJ                     
+totalPower:791.472mJ
+[node 104]
+NB_idle:0mJ                             NB_send:3.01435mJ                       NB_receive:1.42277mJ                    NB_sleep:1.20863mJ                      
+NB_listen:8.31961mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:414mJ                   GPS_Tracking:362.25mJ                   GPS_Sleep:0.91953mJ                     
+totalPower:791.135mJ
+[node 105]
+NB_idle:0mJ                             NB_send:3.08669mJ                       NB_receive:1.49512mJ                    NB_sleep:1.20863mJ                      
+NB_listen:8.31961mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:414mJ                   GPS_Tracking:362.25mJ                   GPS_Sleep:0.91953mJ                     
+totalPower:791.28mJ
+[node 106]
+NB_idle:0mJ                             NB_send:3.03846mJ                       NB_receive:1.44689mJ                    NB_sleep:1.20863mJ                      
+NB_listen:8.31961mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:414mJ                   GPS_Tracking:362.25mJ                   GPS_Sleep:0.91953mJ                     
+totalPower:791.183mJ
+[node 107]
+NB_idle:0mJ                             NB_send:3.11081mJ                       NB_receive:1.54335mJ                    NB_sleep:1.19088mJ                      
+NB_listen:8.19903mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:408mJ                   GPS_Tracking:357mJ                      GPS_Sleep:0.90603mJ                     
+totalPower:779.95mJ
+[node 108]
+NB_idle:0mJ                             NB_send:2.94201mJ                       NB_receive:1.37454mJ                    NB_sleep:1.19088mJ                      
+NB_listen:8.19903mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:408mJ                   GPS_Tracking:357mJ                      GPS_Sleep:0.90603mJ                     
+totalPower:779.612mJ
+[node 109]
+NB_idle:0mJ                             NB_send:2.97818mJ                       NB_receive:1.41072mJ                    NB_sleep:1.19088mJ                      
+NB_listen:8.19903mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:408mJ                   GPS_Tracking:357mJ                      GPS_Sleep:0.90603mJ                     
+totalPower:779.685mJ
+[node 110]
+NB_idle:0mJ                             NB_send:2.90583mJ                       NB_receive:1.36249mJ                    NB_sleep:1.17314mJ                      
+NB_listen:8.07846mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:402mJ                   GPS_Tracking:351.75mJ                   GPS_Sleep:0.89253mJ                     
+totalPower:768.162mJ
+[node 111]
+NB_idle:0mJ                             NB_send:2.92995mJ                       NB_receive:1.3866mJ                     NB_sleep:1.17314mJ                      
+NB_listen:8.07846mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:402mJ                   GPS_Tracking:351.75mJ                   GPS_Sleep:0.89253mJ                     
+totalPower:768.211mJ
+[node 112]
+NB_idle:0mJ                             NB_send:2.91789mJ                       NB_receive:1.37454mJ                    NB_sleep:1.17314mJ                      
+NB_listen:8.07846mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:402mJ                   GPS_Tracking:351.75mJ                   GPS_Sleep:0.89253mJ                     
+totalPower:768.187mJ
+[node 113]
+NB_idle:0mJ                             NB_send:2.88172mJ                       NB_receive:1.36249mJ                    NB_sleep:1.15539mJ                      
+NB_listen:7.95788mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:396mJ                   GPS_Tracking:346.5mJ                    GPS_Sleep:0.87903mJ                     
+totalPower:756.737mJ
+[node 114]
+NB_idle:0mJ                             NB_send:2.99024mJ                       NB_receive:1.471mJ                      NB_sleep:1.15539mJ                      
+NB_listen:7.95788mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:396mJ                   GPS_Tracking:346.5mJ                    GPS_Sleep:0.87903mJ                     
+totalPower:756.954mJ
+[node 115]
+NB_idle:0mJ                             NB_send:2.92995mJ                       NB_receive:1.41072mJ                    NB_sleep:1.15539mJ                      
+NB_listen:7.95788mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:396mJ                   GPS_Tracking:346.5mJ                    GPS_Sleep:0.87903mJ                     
+totalPower:756.833mJ
+[node 116]
+NB_idle:0mJ                             NB_send:2.82143mJ                       NB_receive:1.3022mJ                     NB_sleep:1.15539mJ                      
+NB_listen:7.95788mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:396mJ                   GPS_Tracking:346.5mJ                    GPS_Sleep:0.87903mJ                     
+totalPower:756.616mJ
+[node 117]
+NB_idle:0mJ                             NB_send:3.00229mJ                       NB_receive:1.50717mJ                    NB_sleep:1.13764mJ                      
+NB_listen:7.83731mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:390mJ                   GPS_Tracking:341.25mJ                   GPS_Sleep:0.86553mJ                     
+totalPower:745.6mJ
+[node 118]
+NB_idle:0mJ                             NB_send:2.84555mJ                       NB_receive:1.35043mJ                    NB_sleep:1.13764mJ                      
+NB_listen:7.83731mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:390mJ                   GPS_Tracking:341.25mJ                   GPS_Sleep:0.86553mJ                     
+totalPower:745.286mJ
+[node 119]
+NB_idle:0mJ                             NB_send:2.8576mJ                        NB_receive:1.36249mJ                    NB_sleep:1.13764mJ                      
+NB_listen:7.83731mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:390mJ                   GPS_Tracking:341.25mJ                   GPS_Sleep:0.86553mJ                     
+totalPower:745.311mJ
+[node 120]
+NB_idle:0mJ                             NB_send:2.80937mJ                       NB_receive:1.33837mJ                    NB_sleep:1.1199mJ                       
+NB_listen:7.71674mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:384mJ                   GPS_Tracking:336mJ                      GPS_Sleep:0.85203mJ                     
+totalPower:733.836mJ
+[node 121]
+NB_idle:0mJ                             NB_send:2.78526mJ                       NB_receive:1.31426mJ                    NB_sleep:1.1199mJ                       
+NB_listen:7.71674mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:384mJ                   GPS_Tracking:336mJ                      GPS_Sleep:0.85203mJ                     
+totalPower:733.788mJ
+[node 122]
+NB_idle:0mJ                             NB_send:2.7732mJ                        NB_receive:1.27808mJ                    NB_sleep:1.11986mJ                      
+NB_listen:7.71674mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:384mJ                   GPS_Tracking:336mJ                      GPS_Sleep:0.85203mJ                     
+totalPower:749.248mJ
+[node 123]
+NB_idle:0mJ                             NB_send:2.7732mJ                        NB_receive:1.32631mJ                    NB_sleep:1.10215mJ                      
+NB_listen:7.59616mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:378mJ                   GPS_Tracking:330.75mJ                   GPS_Sleep:0.83853mJ                     
+totalPower:722.386mJ
+[node 124]
+NB_idle:0mJ                             NB_send:2.71291mJ                       NB_receive:1.26603mJ                    NB_sleep:1.10215mJ                      
+NB_listen:7.59616mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:378mJ                   GPS_Tracking:330.75mJ                   GPS_Sleep:0.83853mJ                     
+totalPower:722.266mJ
+[node 125]
+NB_idle:0mJ                             NB_send:2.80937mJ                       NB_receive:1.36249mJ                    NB_sleep:1.10215mJ                      
+NB_listen:7.59616mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:378mJ                   GPS_Tracking:330.75mJ                   GPS_Sleep:0.83853mJ                     
+totalPower:722.459mJ
+[node 126]
+NB_idle:0mJ                             NB_send:2.70086mJ                       NB_receive:1.25397mJ                    NB_sleep:1.10215mJ                      
+NB_listen:7.59616mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:378mJ                   GPS_Tracking:330.75mJ                   GPS_Sleep:0.83853mJ                     
+totalPower:722.242mJ
+[node 127]
+NB_idle:0mJ                             NB_send:2.71291mJ                       NB_receive:1.29014mJ                    NB_sleep:1.0844mJ                       
+NB_listen:7.47559mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:372mJ                   GPS_Tracking:325.5mJ                    GPS_Sleep:0.82503mJ                     
+totalPower:710.888mJ
+[node 128]
+NB_idle:0mJ                             NB_send:2.78526mJ                       NB_receive:1.36249mJ                    NB_sleep:1.0844mJ                       
+NB_listen:7.47559mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:372mJ                   GPS_Tracking:325.5mJ                    GPS_Sleep:0.82503mJ                     
+totalPower:711.033mJ
+[node 129]
+NB_idle:0mJ                             NB_send:2.7732mJ                        NB_receive:1.35043mJ                    NB_sleep:1.0844mJ                       
+NB_listen:7.47559mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:372mJ                   GPS_Tracking:325.5mJ                    GPS_Sleep:0.82503mJ                     
+totalPower:711.009mJ
+[node 130]
+NB_idle:0mJ                             NB_send:2.64057mJ                       NB_receive:1.24191mJ                    NB_sleep:1.06666mJ                      
+NB_listen:7.35501mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:366mJ                   GPS_Tracking:320.25mJ                   GPS_Sleep:0.81153mJ                     
+totalPower:699.366mJ
+[node 131]
+NB_idle:0mJ                             NB_send:2.64057mJ                       NB_receive:1.24191mJ                    NB_sleep:1.06666mJ                      
+NB_listen:7.35501mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:366mJ                   GPS_Tracking:320.25mJ                   GPS_Sleep:0.81153mJ                     
+totalPower:699.366mJ
+[node 132]
+NB_idle:0mJ                             NB_send:2.67674mJ                       NB_receive:1.27808mJ                    NB_sleep:1.06666mJ                      
+NB_listen:7.35501mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:366mJ                   GPS_Tracking:320.25mJ                   GPS_Sleep:0.81153mJ                     
+totalPower:699.438mJ
+[node 133]
+NB_idle:0mJ                             NB_send:2.71291mJ                       NB_receive:1.33837mJ                    NB_sleep:1.04891mJ                      
+NB_listen:7.23444mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:360mJ                   GPS_Tracking:315mJ                      GPS_Sleep:0.79803mJ                     
+totalPower:688.133mJ
+[node 134]
+NB_idle:0mJ                             NB_send:2.65263mJ                       NB_receive:1.27808mJ                    NB_sleep:1.04891mJ                      
+NB_listen:7.23444mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:360mJ                   GPS_Tracking:315mJ                      GPS_Sleep:0.79803mJ                     
+totalPower:688.012mJ
+[node 135]
+NB_idle:0mJ                             NB_send:2.58028mJ                       NB_receive:1.20574mJ                    NB_sleep:1.04891mJ                      
+NB_listen:7.23444mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:360mJ                   GPS_Tracking:315mJ                      GPS_Sleep:0.79803mJ                     
+totalPower:687.867mJ
+[node 136]
+NB_idle:0mJ                             NB_send:2.61646mJ                       NB_receive:1.24191mJ                    NB_sleep:1.04891mJ                      
+NB_listen:7.23444mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:360mJ                   GPS_Tracking:315mJ                      GPS_Sleep:0.79803mJ                     
+totalPower:687.94mJ
+[node 137]
+NB_idle:0mJ                             NB_send:2.59234mJ                       NB_receive:1.24191mJ                    NB_sleep:1.03116mJ                      
+NB_listen:7.11387mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:354mJ                   GPS_Tracking:309.75mJ                   GPS_Sleep:0.78453mJ                     
+totalPower:676.514mJ
+[node 138]
+NB_idle:0mJ                             NB_send:2.64057mJ                       NB_receive:1.29014mJ                    NB_sleep:1.03116mJ                      
+NB_listen:7.11387mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:354mJ                   GPS_Tracking:309.75mJ                   GPS_Sleep:0.78453mJ                     
+totalPower:676.61mJ
+[node 139]
+NB_idle:0mJ                             NB_send:2.53205mJ                       NB_receive:1.18163mJ                    NB_sleep:1.03116mJ                      
+NB_listen:7.11387mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:354mJ                   GPS_Tracking:309.75mJ                   GPS_Sleep:0.78453mJ                     
+totalPower:676.393mJ
+[node 140]
+NB_idle:0mJ                             NB_send:2.56823mJ                       NB_receive:1.24191mJ                    NB_sleep:1.01341mJ                      
+NB_listen:6.99329mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:348mJ                   GPS_Tracking:304.5mJ                    GPS_Sleep:0.77103mJ                     
+totalPower:665.088mJ
+[node 141]
+NB_idle:0mJ                             NB_send:2.58028mJ                       NB_receive:1.25397mJ                    NB_sleep:1.01341mJ                      
+NB_listen:6.99329mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:348mJ                   GPS_Tracking:304.5mJ                    GPS_Sleep:0.77103mJ                     
+totalPower:665.112mJ
+[node 142]
+NB_idle:0mJ                             NB_send:2.50794mJ                       NB_receive:1.18163mJ                    NB_sleep:1.01341mJ                      
+NB_listen:6.99329mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:348mJ                   GPS_Tracking:304.5mJ                    GPS_Sleep:0.77103mJ                     
+totalPower:664.967mJ
+[node 143]
+NB_idle:0mJ                             NB_send:2.44765mJ                       NB_receive:1.14545mJ                    NB_sleep:0.995667mJ                     
+NB_listen:6.87272mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:342mJ                   GPS_Tracking:299.25mJ                   GPS_Sleep:0.75753mJ                     
+totalPower:653.469mJ
+[node 144]
+NB_idle:0mJ                             NB_send:2.50794mJ                       NB_receive:1.20574mJ                    NB_sleep:0.995667mJ                     
+NB_listen:6.87272mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:342mJ                   GPS_Tracking:299.25mJ                   GPS_Sleep:0.75753mJ                     
+totalPower:653.59mJ
+[node 145]
+NB_idle:0mJ                             NB_send:2.47177mJ                       NB_receive:1.16957mJ                    NB_sleep:0.995667mJ                     
+NB_listen:6.87272mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:342mJ                   GPS_Tracking:299.25mJ                   GPS_Sleep:0.75753mJ                     
+totalPower:653.517mJ
+[node 146]
+NB_idle:0mJ                             NB_send:2.42354mJ                       NB_receive:1.12134mJ                    NB_sleep:0.995667mJ                     
+NB_listen:6.87272mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:342mJ                   GPS_Tracking:299.25mJ                   GPS_Sleep:0.75753mJ                     
+totalPower:653.421mJ
+[node 147]
+NB_idle:0mJ                             NB_send:2.42354mJ                       NB_receive:1.14545mJ                    NB_sleep:0.97792mJ                      
+NB_listen:6.75214mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:336mJ                   GPS_Tracking:294mJ                      GPS_Sleep:0.74403mJ                     
+totalPower:642.043mJ
+[node 148]
+NB_idle:0mJ                             NB_send:2.41148mJ                       NB_receive:1.1334mJ                     NB_sleep:0.97792mJ                      
+NB_listen:6.75214mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:336mJ                   GPS_Tracking:294mJ                      GPS_Sleep:0.74403mJ                     
+totalPower:642.019mJ
+[node 149]
+NB_idle:0mJ                             NB_send:2.45971mJ                       NB_receive:1.18163mJ                    NB_sleep:0.97792mJ                      
+NB_listen:6.75214mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:336mJ                   GPS_Tracking:294mJ                      GPS_Sleep:0.74403mJ                     
+totalPower:642.115mJ
+[node 150]
+NB_idle:0mJ                             NB_send:2.32708mJ                       NB_receive:1.07311mJ                    NB_sleep:0.960173mJ                     
+NB_listen:6.63157mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:330mJ                   GPS_Tracking:288.75mJ                   GPS_Sleep:0.73053mJ                     
+totalPower:630.472mJ
+[node 151]
+NB_idle:0mJ                             NB_send:2.42354mJ                       NB_receive:1.16957mJ                    NB_sleep:0.960173mJ                     
+NB_listen:6.63157mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:330mJ                   GPS_Tracking:288.75mJ                   GPS_Sleep:0.73053mJ                     
+totalPower:630.665mJ
+[node 152]
+NB_idle:0mJ                             NB_send:2.38737mJ                       NB_receive:1.1334mJ                     NB_sleep:0.960173mJ                     
+NB_listen:6.63157mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:330mJ                   GPS_Tracking:288.75mJ                   GPS_Sleep:0.73053mJ                     
+totalPower:630.593mJ
+[node 153]
+NB_idle:0mJ                             NB_send:2.37531mJ                       NB_receive:1.14545mJ                    NB_sleep:0.942426mJ                     
+NB_listen:6.511mJ                       NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:324mJ                   GPS_Tracking:283.5mJ                    GPS_Sleep:0.71703mJ                     
+totalPower:619.191mJ
+[node 154]
+NB_idle:0mJ                             NB_send:2.32708mJ                       NB_receive:1.09722mJ                    NB_sleep:0.942426mJ                     
+NB_listen:6.511mJ                       NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:324mJ                   GPS_Tracking:283.5mJ                    GPS_Sleep:0.71703mJ                     
+totalPower:619.095mJ
+[node 155]
+NB_idle:0mJ                             NB_send:2.30296mJ                       NB_receive:1.07311mJ                    NB_sleep:0.942426mJ                     
+NB_listen:6.511mJ                       NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:324mJ                   GPS_Tracking:283.5mJ                    GPS_Sleep:0.71703mJ                     
+totalPower:619.047mJ
+[node 156]
+NB_idle:0mJ                             NB_send:2.41148mJ                       NB_receive:1.18163mJ                    NB_sleep:0.942426mJ                     
+NB_listen:6.511mJ                       NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:324mJ                   GPS_Tracking:283.5mJ                    GPS_Sleep:0.71703mJ                     
+totalPower:619.264mJ
+[node 157]
+NB_idle:0mJ                             NB_send:2.41148mJ                       NB_receive:1.20574mJ                    NB_sleep:0.924679mJ                     
+NB_listen:6.39042mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:318mJ                   GPS_Tracking:278.25mJ                   GPS_Sleep:0.70353mJ                     
+totalPower:623.394mJ
+[node 158]
+NB_idle:0mJ                             NB_send:2.31502mJ                       NB_receive:1.10928mJ                    NB_sleep:0.924679mJ                     
+NB_listen:6.39042mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:318mJ                   GPS_Tracking:278.25mJ                   GPS_Sleep:0.70353mJ                     
+totalPower:607.693mJ
+[node 159]
+NB_idle:0mJ                             NB_send:2.26679mJ                       NB_receive:1.06105mJ                    NB_sleep:0.924679mJ                     
+NB_listen:6.39042mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:318mJ                   GPS_Tracking:278.25mJ                   GPS_Sleep:0.70353mJ                     
+totalPower:607.596mJ
+[node 160]
+NB_idle:0mJ                             NB_send:2.27885mJ                       NB_receive:1.09722mJ                    NB_sleep:0.906932mJ                     
+NB_listen:6.26985mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:312mJ                   GPS_Tracking:273mJ                      GPS_Sleep:0.69003mJ                     
+totalPower:596.243mJ
+[node 161]
+NB_idle:0mJ                             NB_send:2.29091mJ                       NB_receive:1.10928mJ                    NB_sleep:0.906932mJ                     
+NB_listen:6.26985mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:312mJ                   GPS_Tracking:273mJ                      GPS_Sleep:0.69003mJ                     
+totalPower:596.267mJ
+[node 162]
+NB_idle:0mJ                             NB_send:2.30296mJ                       NB_receive:1.12134mJ                    NB_sleep:0.906932mJ                     
+NB_listen:6.26985mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:312mJ                   GPS_Tracking:273mJ                      GPS_Sleep:0.69003mJ                     
+totalPower:596.291mJ
+[node 163]
+NB_idle:0mJ                             NB_send:2.24268mJ                       NB_receive:1.08517mJ                    NB_sleep:0.889185mJ                     
+NB_listen:6.14927mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:306mJ                   GPS_Tracking:267.75mJ                   GPS_Sleep:0.67653mJ                     
+totalPower:584.793mJ
+[node 164]
+NB_idle:0mJ                             NB_send:2.27885mJ                       NB_receive:1.12134mJ                    NB_sleep:0.889185mJ                     
+NB_listen:6.14927mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:306mJ                   GPS_Tracking:267.75mJ                   GPS_Sleep:0.67653mJ                     
+totalPower:584.865mJ
+[node 165]
+NB_idle:0mJ                             NB_send:2.1221mJ                        NB_receive:0.964592mJ                   NB_sleep:0.889185mJ                     
+NB_listen:6.14927mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:306mJ                   GPS_Tracking:267.75mJ                   GPS_Sleep:0.67653mJ                     
+totalPower:584.552mJ
+[node 166]
+NB_idle:0mJ                             NB_send:2.2065mJ                        NB_receive:1.04899mJ                    NB_sleep:0.889185mJ                     
+NB_listen:6.14927mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:306mJ                   GPS_Tracking:267.75mJ                   GPS_Sleep:0.67653mJ                     
+totalPower:584.72mJ
+[node 167]
+NB_idle:0mJ                             NB_send:2.07387mJ                       NB_receive:0.940477mJ                   NB_sleep:0.871438mJ                     
+NB_listen:6.0287mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:300mJ                   GPS_Tracking:262.5mJ                    GPS_Sleep:0.66303mJ                     
+totalPower:573.078mJ
+[node 168]
+NB_idle:0mJ                             NB_send:2.2065mJ                        NB_receive:1.07311mJ                    NB_sleep:0.871438mJ                     
+NB_listen:6.0287mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:300mJ                   GPS_Tracking:262.5mJ                    GPS_Sleep:0.66303mJ                     
+totalPower:573.343mJ
+[node 169]
+NB_idle:0mJ                             NB_send:2.2065mJ                        NB_receive:1.07311mJ                    NB_sleep:0.871438mJ                     
+NB_listen:6.0287mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:300mJ                   GPS_Tracking:262.5mJ                    GPS_Sleep:0.66303mJ                     
+totalPower:573.343mJ
+[node 170]
+NB_idle:0mJ                             NB_send:2.18239mJ                       NB_receive:1.07311mJ                    NB_sleep:0.853691mJ                     
+NB_listen:5.90813mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:294mJ                   GPS_Tracking:257.25mJ                   GPS_Sleep:0.64953mJ                     
+totalPower:561.917mJ
+[node 171]
+NB_idle:0mJ                             NB_send:2.11004mJ                       NB_receive:1.00076mJ                    NB_sleep:0.853691mJ                     
+NB_listen:5.90813mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:294mJ                   GPS_Tracking:257.25mJ                   GPS_Sleep:0.64953mJ                     
+totalPower:561.772mJ
+[node 172]
+NB_idle:0mJ                             NB_send:2.15827mJ                       NB_receive:1.04899mJ                    NB_sleep:0.853691mJ                     
+NB_listen:5.90813mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:294mJ                   GPS_Tracking:257.25mJ                   GPS_Sleep:0.64953mJ                     
+totalPower:561.869mJ
+[node 173]
+NB_idle:0mJ                             NB_send:2.08593mJ                       NB_receive:1.00076mJ                    NB_sleep:0.835943mJ                     
+NB_listen:5.78755mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:288mJ                   GPS_Tracking:252mJ                      GPS_Sleep:0.63603mJ                     
+totalPower:550.346mJ
+[node 174]
+NB_idle:0mJ                             NB_send:2.04976mJ                       NB_receive:0.988707mJ                   NB_sleep:0.835908mJ                     
+NB_listen:5.78755mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:288mJ                   GPS_Tracking:252mJ                      GPS_Sleep:0.63603mJ                     
+totalPower:550.298mJ
+[node 175]
+NB_idle:0mJ                             NB_send:2.18239mJ                       NB_receive:1.12134mJ                    NB_sleep:0.835908mJ                     
+NB_listen:5.78755mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:288mJ                   GPS_Tracking:252mJ                      GPS_Sleep:0.63603mJ                     
+totalPower:550.563mJ
+[node 176]
+NB_idle:0mJ                             NB_send:2.14622mJ                       NB_receive:1.08517mJ                    NB_sleep:0.835908mJ                     
+NB_listen:5.78755mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:288mJ                   GPS_Tracking:252mJ                      GPS_Sleep:0.63603mJ                     
+totalPower:550.491mJ
+[node 177]
+NB_idle:0mJ                             NB_send:2.08593mJ                       NB_receive:1.04899mJ                    NB_sleep:0.818161mJ                     
+NB_listen:5.66698mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:282mJ                   GPS_Tracking:246.75mJ                   GPS_Sleep:0.62253mJ                     
+totalPower:538.993mJ
+[node 178]
+NB_idle:0mJ                             NB_send:2.02564mJ                       NB_receive:0.964592mJ                   NB_sleep:0.818196mJ                     
+NB_listen:5.66698mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:282mJ                   GPS_Tracking:246.75mJ                   GPS_Sleep:0.62253mJ                     
+totalPower:538.848mJ
+[node 179]
+NB_idle:0mJ                             NB_send:2.06182mJ                       NB_receive:1.00076mJ                    NB_sleep:0.818196mJ                     
+NB_listen:5.66698mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:282mJ                   GPS_Tracking:246.75mJ                   GPS_Sleep:0.62253mJ                     
+totalPower:538.92mJ
+[node 180]
+NB_idle:0mJ                             NB_send:2.04976mJ                       NB_receive:1.01282mJ                    NB_sleep:0.800449mJ                     
+NB_listen:5.5464mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:276mJ                   GPS_Tracking:241.5mJ                    GPS_Sleep:0.60903mJ                     
+totalPower:527.518mJ
+[node 181]
+NB_idle:0mJ                             NB_send:2.11004mJ                       NB_receive:1.09722mJ                    NB_sleep:0.800413mJ                     
+NB_listen:5.5464mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:276mJ                   GPS_Tracking:241.5mJ                    GPS_Sleep:0.60903mJ                     
+totalPower:527.663mJ
+[node 182]
+NB_idle:0mJ                             NB_send:2.00153mJ                       NB_receive:0.964592mJ                   NB_sleep:0.800449mJ                     
+NB_listen:5.5464mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:276mJ                   GPS_Tracking:241.5mJ                    GPS_Sleep:0.60903mJ                     
+totalPower:527.422mJ
+[node 183]
+NB_idle:0mJ                             NB_send:1.9533mJ                        NB_receive:0.940477mJ                   NB_sleep:0.782702mJ                     
+NB_listen:5.42583mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:270mJ                   GPS_Tracking:236.25mJ                   GPS_Sleep:0.59553mJ                     
+totalPower:515.948mJ
+[node 184]
+NB_idle:0mJ                             NB_send:1.91713mJ                       NB_receive:0.904305mJ                   NB_sleep:0.782702mJ                     
+NB_listen:5.42583mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:270mJ                   GPS_Tracking:236.25mJ                   GPS_Sleep:0.59553mJ                     
+totalPower:515.875mJ
+[node 185]
+NB_idle:0mJ                             NB_send:2.02564mJ                       NB_receive:1.01282mJ                    NB_sleep:0.782702mJ                     
+NB_listen:5.42583mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:270mJ                   GPS_Tracking:236.25mJ                   GPS_Sleep:0.59553mJ                     
+totalPower:531.6mJ
+[node 186]
+NB_idle:0mJ                             NB_send:1.97741mJ                       NB_receive:0.964592mJ                   NB_sleep:0.782702mJ                     
+NB_listen:5.42583mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:270mJ                   GPS_Tracking:236.25mJ                   GPS_Sleep:0.59553mJ                     
+totalPower:515.996mJ
+[node 187]
+NB_idle:0mJ                             NB_send:1.82067mJ                       NB_receive:0.831961mJ                   NB_sleep:0.764955mJ                     
+NB_listen:5.30526mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:264mJ                   GPS_Tracking:231mJ                      GPS_Sleep:0.58203mJ                     
+totalPower:504.305mJ
+[node 188]
+NB_idle:0mJ                             NB_send:2.01359mJ                       NB_receive:1.02488mJ                    NB_sleep:0.764955mJ                     
+NB_listen:5.30526mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:264mJ                   GPS_Tracking:231mJ                      GPS_Sleep:0.58203mJ                     
+totalPower:504.691mJ
+[node 189]
+NB_idle:0mJ                             NB_send:1.91713mJ                       NB_receive:0.92842mJ                    NB_sleep:0.764955mJ                     
+NB_listen:5.30526mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:264mJ                   GPS_Tracking:231mJ                      GPS_Sleep:0.58203mJ                     
+totalPower:504.498mJ
+[node 190]
+NB_idle:0mJ                             NB_send:1.84478mJ                       NB_receive:0.88019mJ                    NB_sleep:0.747208mJ                     
+NB_listen:5.18468mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:258mJ                   GPS_Tracking:225.75mJ                   GPS_Sleep:0.56853mJ                     
+totalPower:492.975mJ
+[node 191]
+NB_idle:0mJ                             NB_send:1.92918mJ                       NB_receive:0.964592mJ                   NB_sleep:0.747208mJ                     
+NB_listen:5.18468mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:258mJ                   GPS_Tracking:225.75mJ                   GPS_Sleep:0.56853mJ                     
+totalPower:493.144mJ
+[node 192]
+NB_idle:0mJ                             NB_send:1.88095mJ                       NB_receive:0.916362mJ                   NB_sleep:0.747208mJ                     
+NB_listen:5.18468mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:258mJ                   GPS_Tracking:225.75mJ                   GPS_Sleep:0.56853mJ                     
+totalPower:493.048mJ
+[node 193]
+NB_idle:0mJ                             NB_send:1.79655mJ                       NB_receive:0.856075mJ                   NB_sleep:0.729461mJ                     
+NB_listen:5.06411mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:252mJ                   GPS_Tracking:220.5mJ                    GPS_Sleep:0.55503mJ                     
+totalPower:481.501mJ
+[node 194]
+NB_idle:0mJ                             NB_send:1.89301mJ                       NB_receive:0.904305mJ                   NB_sleep:0.729461mJ                     
+NB_listen:5.06411mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:252mJ                   GPS_Tracking:220.5mJ                    GPS_Sleep:0.55503mJ                     
+totalPower:481.646mJ
+[node 195]
+NB_idle:0mJ                             NB_send:1.91713mJ                       NB_receive:0.92842mJ                    NB_sleep:0.729461mJ                     
+NB_listen:5.06411mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:252mJ                   GPS_Tracking:220.5mJ                    GPS_Sleep:0.55503mJ                     
+totalPower:481.694mJ
+[node 196]
+NB_idle:0mJ                             NB_send:1.90507mJ                       NB_receive:0.916362mJ                   NB_sleep:0.729461mJ                     
+NB_listen:5.06411mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:252mJ                   GPS_Tracking:220.5mJ                    GPS_Sleep:0.55503mJ                     
+totalPower:481.67mJ
+[node 197]
+NB_idle:0mJ                             NB_send:1.77244mJ                       NB_receive:0.807846mJ                   NB_sleep:0.711714mJ                     
+NB_listen:4.94353mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:246mJ                   GPS_Tracking:215.25mJ                   GPS_Sleep:0.54153mJ                     
+totalPower:470.027mJ
+[node 198]
+NB_idle:0mJ                             NB_send:1.83272mJ                       NB_receive:0.916362mJ                   NB_sleep:0.711714mJ                     
+NB_listen:4.94353mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:246mJ                   GPS_Tracking:215.25mJ                   GPS_Sleep:0.54153mJ                     
+totalPower:470.196mJ
+[node 199]
+NB_idle:0mJ                             NB_send:1.79655mJ                       NB_receive:0.88019mJ                    NB_sleep:0.711714mJ                     
+NB_listen:4.94353mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:246mJ                   GPS_Tracking:215.25mJ                   GPS_Sleep:0.54153mJ                     
+totalPower:470.124mJ
+[node 200]
+NB_idle:0mJ                             NB_send:1.82067mJ                       NB_receive:0.92842mJ                    NB_sleep:0.693967mJ                     
+NB_listen:4.82296mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:240mJ                   GPS_Tracking:210mJ                      GPS_Sleep:0.52803mJ                     
+totalPower:458.794mJ
+[node 201]
+NB_idle:0mJ                             NB_send:1.76038mJ                       NB_receive:0.819903mJ                   NB_sleep:0.693967mJ                     
+NB_listen:4.82296mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:240mJ                   GPS_Tracking:210mJ                      GPS_Sleep:0.52803mJ                     
+totalPower:458.625mJ
+[node 202]
+NB_idle:0mJ                             NB_send:1.73627mJ                       NB_receive:0.844018mJ                   NB_sleep:0.693967mJ                     
+NB_listen:4.82296mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:240mJ                   GPS_Tracking:210mJ                      GPS_Sleep:0.52803mJ                     
+totalPower:458.625mJ
+[node 203]
+NB_idle:0mJ                             NB_send:1.70009mJ                       NB_receive:0.831961mJ                   NB_sleep:0.67622mJ                      
+NB_listen:4.70239mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:234mJ                   GPS_Tracking:204.75mJ                   GPS_Sleep:0.51453mJ                     
+totalPower:462.683mJ
+[node 204]
+NB_idle:0mJ                             NB_send:1.66392mJ                       NB_receive:0.795788mJ                   NB_sleep:0.67622mJ                      
+NB_listen:4.70239mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:234mJ                   GPS_Tracking:204.75mJ                   GPS_Sleep:0.51453mJ                     
+totalPower:447.103mJ
+[node 205]
+NB_idle:0mJ                             NB_send:1.76038mJ                       NB_receive:0.892248mJ                   NB_sleep:0.67622mJ                      
+NB_listen:4.70239mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:234mJ                   GPS_Tracking:204.75mJ                   GPS_Sleep:0.51453mJ                     
+totalPower:447.296mJ
+[node 206]
+NB_idle:0mJ                             NB_send:1.72421mJ                       NB_receive:0.856075mJ                   NB_sleep:0.67622mJ                      
+NB_listen:4.70239mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:234mJ                   GPS_Tracking:204.75mJ                   GPS_Sleep:0.51453mJ                     
+totalPower:447.223mJ
+[node 207]
+NB_idle:0mJ                             NB_send:1.74832mJ                       NB_receive:0.904305mJ                   NB_sleep:0.658473mJ                     
+NB_listen:4.58181mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:228mJ                   GPS_Tracking:199.5mJ                    GPS_Sleep:0.50103mJ                     
+totalPower:435.894mJ
+[node 208]
+NB_idle:0mJ                             NB_send:1.70009mJ                       NB_receive:0.856075mJ                   NB_sleep:0.658473mJ                     
+NB_listen:4.58181mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:228mJ                   GPS_Tracking:199.5mJ                    GPS_Sleep:0.50103mJ                     
+totalPower:435.797mJ
+[node 209]
+NB_idle:0mJ                             NB_send:1.72421mJ                       NB_receive:0.88019mJ                    NB_sleep:0.658473mJ                     
+NB_listen:4.58181mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:228mJ                   GPS_Tracking:199.5mJ                    GPS_Sleep:0.50103mJ                     
+totalPower:435.846mJ
+[node 210]
+NB_idle:0mJ                             NB_send:1.66392mJ                       NB_receive:0.844018mJ                   NB_sleep:0.640726mJ                     
+NB_listen:4.46124mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:222mJ                   GPS_Tracking:194.25mJ                   GPS_Sleep:0.48753mJ                     
+totalPower:424.347mJ
+[node 211]
+NB_idle:0mJ                             NB_send:1.68804mJ                       NB_receive:0.868133mJ                   NB_sleep:0.640726mJ                     
+NB_listen:4.46124mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:222mJ                   GPS_Tracking:194.25mJ                   GPS_Sleep:0.48753mJ                     
+totalPower:424.396mJ
+[node 212]
+NB_idle:0mJ                             NB_send:1.62775mJ                       NB_receive:0.807846mJ                   NB_sleep:0.640726mJ                     
+NB_listen:4.46124mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:222mJ                   GPS_Tracking:194.25mJ                   GPS_Sleep:0.48753mJ                     
+totalPower:424.275mJ
+[node 213]
+NB_idle:0mJ                             NB_send:1.66392mJ                       NB_receive:0.868133mJ                   NB_sleep:0.622979mJ                     
+NB_listen:4.34066mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:216mJ                   GPS_Tracking:189mJ                      GPS_Sleep:0.47403mJ                     
+totalPower:412.97mJ
+[node 214]
+NB_idle:0mJ                             NB_send:1.50717mJ                       NB_receive:0.711387mJ                   NB_sleep:0.622979mJ                     
+NB_listen:4.34066mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:216mJ                   GPS_Tracking:189mJ                      GPS_Sleep:0.47403mJ                     
+totalPower:412.656mJ
+[node 215]
+NB_idle:0mJ                             NB_send:1.65186mJ                       NB_receive:0.856075mJ                   NB_sleep:0.622979mJ                     
+NB_listen:4.34066mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:216mJ                   GPS_Tracking:189mJ                      GPS_Sleep:0.47403mJ                     
+totalPower:428.453mJ
+[node 216]
+NB_idle:0mJ                             NB_send:1.61569mJ                       NB_receive:0.819903mJ                   NB_sleep:0.622979mJ                     
+NB_listen:4.34066mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:216mJ                   GPS_Tracking:189mJ                      GPS_Sleep:0.47403mJ                     
+totalPower:412.873mJ
+[node 217]
+NB_idle:0mJ                             NB_send:1.50717mJ                       NB_receive:0.735501mJ                   NB_sleep:0.605232mJ                     
+NB_listen:4.22009mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:210mJ                   GPS_Tracking:183.75mJ                   GPS_Sleep:0.46053mJ                     
+totalPower:401.279mJ
+[node 218]
+NB_idle:0mJ                             NB_send:1.5554mJ                        NB_receive:0.783731mJ                   NB_sleep:0.605232mJ                     
+NB_listen:4.22009mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:210mJ                   GPS_Tracking:183.75mJ                   GPS_Sleep:0.46053mJ                     
+totalPower:401.375mJ
+[node 219]
+NB_idle:0mJ                             NB_send:1.60363mJ                       NB_receive:0.831961mJ                   NB_sleep:0.605232mJ                     
+NB_listen:4.22009mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:210mJ                   GPS_Tracking:183.75mJ                   GPS_Sleep:0.46053mJ                     
+totalPower:401.471mJ
+[node 220]
+NB_idle:0mJ                             NB_send:1.54335mJ                       NB_receive:0.795788mJ                   NB_sleep:0.587485mJ                     
+NB_listen:4.09952mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:204mJ                   GPS_Tracking:178.5mJ                    GPS_Sleep:0.44703mJ                     
+totalPower:389.973mJ
+[node 221]
+NB_idle:0mJ                             NB_send:1.54335mJ                       NB_receive:0.795788mJ                   NB_sleep:0.587485mJ                     
+NB_listen:4.09952mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:204mJ                   GPS_Tracking:178.5mJ                    GPS_Sleep:0.44703mJ                     
+totalPower:389.973mJ
+[node 222]
+NB_idle:0mJ                             NB_send:1.45895mJ                       NB_receive:0.711387mJ                   NB_sleep:0.587485mJ                     
+NB_listen:4.09952mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:204mJ                   GPS_Tracking:178.5mJ                    GPS_Sleep:0.44703mJ                     
+totalPower:389.804mJ
+[node 223]
+NB_idle:0mJ                             NB_send:1.50717mJ                       NB_receive:0.783731mJ                   NB_sleep:0.569738mJ                     
+NB_listen:3.97894mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:198mJ                   GPS_Tracking:173.25mJ                   GPS_Sleep:0.43353mJ                     
+totalPower:378.523mJ
+[node 224]
+NB_idle:0mJ                             NB_send:1.53129mJ                       NB_receive:0.807846mJ                   NB_sleep:0.569738mJ                     
+NB_listen:3.97894mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:198mJ                   GPS_Tracking:173.25mJ                   GPS_Sleep:0.43353mJ                     
+totalPower:378.571mJ
+[node 225]
+NB_idle:0mJ                             NB_send:1.45895mJ                       NB_receive:0.735501mJ                   NB_sleep:0.569738mJ                     
+NB_listen:3.97894mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:198mJ                   GPS_Tracking:173.25mJ                   GPS_Sleep:0.43353mJ                     
+totalPower:378.427mJ
+[node 226]
+NB_idle:0mJ                             NB_send:1.42277mJ                       NB_receive:0.699329mJ                   NB_sleep:0.569738mJ                     
+NB_listen:3.97894mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:198mJ                   GPS_Tracking:173.25mJ                   GPS_Sleep:0.43353mJ                     
+totalPower:378.354mJ
+[node 227]
+NB_idle:0mJ                             NB_send:1.43483mJ                       NB_receive:0.735501mJ                   NB_sleep:0.551991mJ                     
+NB_listen:3.85837mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:192mJ                   GPS_Tracking:168mJ                      GPS_Sleep:0.42003mJ                     
+totalPower:367.001mJ
+[node 228]
+NB_idle:0mJ                             NB_send:1.44689mJ                       NB_receive:0.747559mJ                   NB_sleep:0.551991mJ                     
+NB_listen:3.85837mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:192mJ                   GPS_Tracking:168mJ                      GPS_Sleep:0.42003mJ                     
+totalPower:367.025mJ
+[node 229]
+NB_idle:0mJ                             NB_send:1.43483mJ                       NB_receive:0.759616mJ                   NB_sleep:0.551955mJ                     
+NB_listen:3.85837mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:192mJ                   GPS_Tracking:168mJ                      GPS_Sleep:0.42003mJ                     
+totalPower:367.025mJ
+[node 230]
+NB_idle:0mJ                             NB_send:1.3866mJ                        NB_receive:0.711387mJ                   NB_sleep:0.534244mJ                     
+NB_listen:3.73779mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:186mJ                   GPS_Tracking:162.75mJ                   GPS_Sleep:0.40653mJ                     
+totalPower:371.034mJ
+[node 231]
+NB_idle:0mJ                             NB_send:1.45895mJ                       NB_receive:0.783731mJ                   NB_sleep:0.534244mJ                     
+NB_listen:3.73779mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:186mJ                   GPS_Tracking:162.75mJ                   GPS_Sleep:0.40653mJ                     
+totalPower:355.671mJ
+[node 232]
+NB_idle:0mJ                             NB_send:1.37454mJ                       NB_receive:0.699329mJ                   NB_sleep:0.534244mJ                     
+NB_listen:3.73779mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:186mJ                   GPS_Tracking:162.75mJ                   GPS_Sleep:0.40653mJ                     
+totalPower:355.502mJ
+[node 233]
+NB_idle:0mJ                             NB_send:1.33837mJ                       NB_receive:0.687272mJ                   NB_sleep:0.516497mJ                     
+NB_listen:3.61722mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:180mJ                   GPS_Tracking:157.5mJ                    GPS_Sleep:0.39303mJ                     
+totalPower:344.052mJ
+[node 234]
+NB_idle:0mJ                             NB_send:1.36249mJ                       NB_receive:0.711387mJ                   NB_sleep:0.516497mJ                     
+NB_listen:3.61722mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:180mJ                   GPS_Tracking:157.5mJ                    GPS_Sleep:0.39303mJ                     
+totalPower:344.101mJ
+[node 235]
+NB_idle:0mJ                             NB_send:1.37454mJ                       NB_receive:0.747559mJ                   NB_sleep:0.516461mJ                     
+NB_listen:3.61722mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:180mJ                   GPS_Tracking:157.5mJ                    GPS_Sleep:0.39303mJ                     
+totalPower:344.149mJ
+[node 236]
+NB_idle:0mJ                             NB_send:1.3866mJ                        NB_receive:0.759616mJ                   NB_sleep:0.516461mJ                     
+NB_listen:3.61722mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:180mJ                   GPS_Tracking:157.5mJ                    GPS_Sleep:0.39303mJ                     
+totalPower:344.173mJ
+[node 237]
+NB_idle:0mJ                             NB_send:1.3022mJ                        NB_receive:0.675214mJ                   NB_sleep:0.49875mJ                      
+NB_listen:3.49665mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:174mJ                   GPS_Tracking:152.25mJ                   GPS_Sleep:0.37953mJ                     
+totalPower:332.602mJ
+[node 238]
+NB_idle:0mJ                             NB_send:1.24191mJ                       NB_receive:0.614927mJ                   NB_sleep:0.49875mJ                      
+NB_listen:3.49665mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:174mJ                   GPS_Tracking:152.25mJ                   GPS_Sleep:0.37953mJ                     
+totalPower:332.482mJ
+[node 239]
+NB_idle:0mJ                             NB_send:1.25397mJ                       NB_receive:0.626985mJ                   NB_sleep:0.49875mJ                      
+NB_listen:3.49665mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:174mJ                   GPS_Tracking:152.25mJ                   GPS_Sleep:0.37953mJ                     
+totalPower:332.506mJ
+[node 240]
+NB_idle:0mJ                             NB_send:1.2178mJ                        NB_receive:0.614927mJ                   NB_sleep:0.481003mJ                     
+NB_listen:3.37607mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:168mJ                   GPS_Tracking:147mJ                      GPS_Sleep:0.36603mJ                     
+totalPower:321.056mJ
+[node 241]
+NB_idle:0mJ                             NB_send:1.22985mJ                       NB_receive:0.626985mJ                   NB_sleep:0.481003mJ                     
+NB_listen:3.37607mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:168mJ                   GPS_Tracking:147mJ                      GPS_Sleep:0.36603mJ                     
+totalPower:321.08mJ
+[node 242]
+NB_idle:0mJ                             NB_send:1.26603mJ                       NB_receive:0.663157mJ                   NB_sleep:0.481003mJ                     
+NB_listen:3.37607mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:168mJ                   GPS_Tracking:147mJ                      GPS_Sleep:0.36603mJ                     
+totalPower:321.152mJ
+[node 243]
+NB_idle:0mJ                             NB_send:1.15751mJ                       NB_receive:0.578755mJ                   NB_sleep:0.463255mJ                     
+NB_listen:3.2555mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:162mJ                   GPS_Tracking:141.75mJ                   GPS_Sleep:0.35253mJ                     
+totalPower:309.558mJ
+[node 244]
+NB_idle:0mJ                             NB_send:1.18163mJ                       NB_receive:0.60287mJ                    NB_sleep:0.463255mJ                     
+NB_listen:3.2555mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:162mJ                   GPS_Tracking:141.75mJ                   GPS_Sleep:0.35253mJ                     
+totalPower:309.606mJ
+[node 245]
+NB_idle:0mJ                             NB_send:1.24191mJ                       NB_receive:0.663157mJ                   NB_sleep:0.463255mJ                     
+NB_listen:3.2555mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:162mJ                   GPS_Tracking:141.75mJ                   GPS_Sleep:0.35253mJ                     
+totalPower:309.726mJ
+[node 246]
+NB_idle:0mJ                             NB_send:1.3022mJ                        NB_receive:0.723444mJ                   NB_sleep:0.463255mJ                     
+NB_listen:3.2555mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:162mJ                   GPS_Tracking:141.75mJ                   GPS_Sleep:0.35253mJ                     
+totalPower:309.847mJ
+[node 247]
+NB_idle:0mJ                             NB_send:1.12134mJ                       NB_receive:0.566698mJ                   NB_sleep:0.445508mJ                     
+NB_listen:3.13492mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:156mJ                   GPS_Tracking:136.5mJ                    GPS_Sleep:0.33903mJ                     
+totalPower:298.107mJ
+[node 248]
+NB_idle:0mJ                             NB_send:1.20574mJ                       NB_receive:0.6511mJ                     NB_sleep:0.445508mJ                     
+NB_listen:3.13492mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:156mJ                   GPS_Tracking:136.5mJ                    GPS_Sleep:0.33903mJ                     
+totalPower:313.784mJ
+[node 249]
+NB_idle:0mJ                             NB_send:1.25397mJ                       NB_receive:0.6511mJ                     NB_sleep:0.445508mJ                     
+NB_listen:3.13492mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:156mJ                   GPS_Tracking:136.5mJ                    GPS_Sleep:0.33903mJ                     
+totalPower:298.325mJ
+[node 250]
+NB_idle:0mJ                             NB_send:1.1334mJ                        NB_receive:0.60287mJ                    NB_sleep:0.427761mJ                     
+NB_listen:3.01435mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:150mJ                   GPS_Tracking:131.25mJ                   GPS_Sleep:0.32553mJ                     
+totalPower:286.754mJ
+[node 251]
+NB_idle:0mJ                             NB_send:1.07311mJ                       NB_receive:0.542583mJ                   NB_sleep:0.427761mJ                     
+NB_listen:3.01435mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:150mJ                   GPS_Tracking:131.25mJ                   GPS_Sleep:0.32553mJ                     
+totalPower:286.633mJ
+[node 252]
+NB_idle:0mJ                             NB_send:1.1334mJ                        NB_receive:0.60287mJ                    NB_sleep:0.427761mJ                     
+NB_listen:3.01435mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:150mJ                   GPS_Tracking:131.25mJ                   GPS_Sleep:0.32553mJ                     
+totalPower:286.754mJ
+[node 253]
+NB_idle:0mJ                             NB_send:1.08517mJ                       NB_receive:0.578755mJ                   NB_sleep:0.410014mJ                     
+NB_listen:2.89378mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:144mJ                   GPS_Tracking:126mJ                      GPS_Sleep:0.31203mJ                     
+totalPower:275.28mJ
+[node 254]
+NB_idle:0mJ                             NB_send:1.01282mJ                       NB_receive:0.506411mJ                   NB_sleep:0.410014mJ                     
+NB_listen:2.89378mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:144mJ                   GPS_Tracking:126mJ                      GPS_Sleep:0.31203mJ                     
+totalPower:275.135mJ
+[node 255]
+NB_idle:0mJ                             NB_send:1.04899mJ                       NB_receive:0.494353mJ                   NB_sleep:0.410014mJ                     
+NB_listen:2.89378mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:144mJ                   GPS_Tracking:126mJ                      GPS_Sleep:0.31203mJ                     
+totalPower:275.159mJ
+[node 256]
+NB_idle:0mJ                             NB_send:1.16957mJ                       NB_receive:0.614927mJ                   NB_sleep:0.410014mJ                     
+NB_listen:2.89378mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:144mJ                   GPS_Tracking:126mJ                      GPS_Sleep:0.31203mJ                     
+totalPower:275.4mJ
+[node 257]
+NB_idle:0mJ                             NB_send:1.08517mJ                       NB_receive:0.60287mJ                    NB_sleep:0.392267mJ                     
+NB_listen:2.7732mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:138mJ                   GPS_Tracking:120.75mJ                   GPS_Sleep:0.29853mJ                     
+totalPower:263.902mJ
+[node 258]
+NB_idle:0mJ                             NB_send:1.01282mJ                       NB_receive:0.530526mJ                   NB_sleep:0.392267mJ                     
+NB_listen:2.7732mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:138mJ                   GPS_Tracking:120.75mJ                   GPS_Sleep:0.29853mJ                     
+totalPower:263.757mJ
+[node 259]
+NB_idle:0mJ                             NB_send:1.02488mJ                       NB_receive:0.542583mJ                   NB_sleep:0.392267mJ                     
+NB_listen:2.7732mJ                      NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:138mJ                   GPS_Tracking:120.75mJ                   GPS_Sleep:0.29853mJ                     
+totalPower:263.781mJ
+[node 260]
+NB_idle:0mJ                             NB_send:1.03694mJ                       NB_receive:0.578755mJ                   NB_sleep:0.37452mJ                      
+NB_listen:2.65263mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:132mJ                   GPS_Tracking:115.5mJ                    GPS_Sleep:0.28503mJ                     
+totalPower:252.428mJ
+[node 261]
+NB_idle:0mJ                             NB_send:0.976649mJ                      NB_receive:0.518468mJ                   NB_sleep:0.37452mJ                      
+NB_listen:2.65263mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:132mJ                   GPS_Tracking:115.5mJ                    GPS_Sleep:0.28503mJ                     
+totalPower:252.307mJ
+[node 262]
+NB_idle:0mJ                             NB_send:1.01282mJ                       NB_receive:0.55464mJ                    NB_sleep:0.37452mJ                      
+NB_listen:2.65263mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:132mJ                   GPS_Tracking:115.5mJ                    GPS_Sleep:0.28503mJ                     
+totalPower:252.38mJ
+[node 263]
+NB_idle:0mJ                             NB_send:0.952535mJ                      NB_receive:0.518468mJ                   NB_sleep:0.356773mJ                     
+NB_listen:2.53205mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:126mJ                   GPS_Tracking:110.25mJ                   GPS_Sleep:0.27153mJ                     
+totalPower:240.881mJ
+[node 264]
+NB_idle:0mJ                             NB_send:0.916362mJ                      NB_receive:0.482296mJ                   NB_sleep:0.356773mJ                     
+NB_listen:2.53205mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:126mJ                   GPS_Tracking:110.25mJ                   GPS_Sleep:0.27153mJ                     
+totalPower:240.809mJ
+[node 265]
+NB_idle:0mJ                             NB_send:0.964592mJ                      NB_receive:0.530526mJ                   NB_sleep:0.356773mJ                     
+NB_listen:2.53205mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:126mJ                   GPS_Tracking:110.25mJ                   GPS_Sleep:0.27153mJ                     
+totalPower:240.905mJ
+[node 266]
+NB_idle:0mJ                             NB_send:0.92842mJ                       NB_receive:0.494353mJ                   NB_sleep:0.356773mJ                     
+NB_listen:2.53205mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:126mJ                   GPS_Tracking:110.25mJ                   GPS_Sleep:0.27153mJ                     
+totalPower:240.833mJ
+[node 267]
+NB_idle:0mJ                             NB_send:0.916362mJ                      NB_receive:0.506411mJ                   NB_sleep:0.339026mJ                     
+NB_listen:2.41148mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:120mJ                   GPS_Tracking:105mJ                      GPS_Sleep:0.25803mJ                     
+totalPower:229.431mJ
+[node 268]
+NB_idle:0mJ                             NB_send:0.892248mJ                      NB_receive:0.482296mJ                   NB_sleep:0.339026mJ                     
+NB_listen:2.41148mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:120mJ                   GPS_Tracking:105mJ                      GPS_Sleep:0.25803mJ                     
+totalPower:229.383mJ
+[node 269]
+NB_idle:0mJ                             NB_send:0.904305mJ                      NB_receive:0.494353mJ                   NB_sleep:0.339026mJ                     
+NB_listen:2.41148mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:120mJ                   GPS_Tracking:105mJ                      GPS_Sleep:0.25803mJ                     
+totalPower:229.407mJ
+[node 270]
+NB_idle:0mJ                             NB_send:0.795788mJ                      NB_receive:0.409952mJ                   NB_sleep:0.321279mJ                     
+NB_listen:2.29091mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:114mJ                   GPS_Tracking:99.75mJ                    GPS_Sleep:0.24453mJ                     
+totalPower:217.812mJ
+[node 271]
+NB_idle:0mJ                             NB_send:0.844018mJ                      NB_receive:0.458181mJ                   NB_sleep:0.321279mJ                     
+NB_listen:2.29091mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:114mJ                   GPS_Tracking:99.75mJ                    GPS_Sleep:0.24453mJ                     
+totalPower:217.909mJ
+[node 272]
+NB_idle:0mJ                             NB_send:0.856075mJ                      NB_receive:0.470239mJ                   NB_sleep:0.321279mJ                     
+NB_listen:2.29091mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:7.695mJ                      LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:114mJ                   GPS_Tracking:99.75mJ                    GPS_Sleep:0.24453mJ                     
+totalPower:233.441mJ
+[node 273]
+NB_idle:0mJ                             NB_send:0.771674mJ                      NB_receive:0.409952mJ                   NB_sleep:0.303532mJ                     
+NB_listen:2.17033mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:108mJ                   GPS_Tracking:94.5mJ                     GPS_Sleep:0.23103mJ                     
+totalPower:206.387mJ
+[node 274]
+NB_idle:0mJ                             NB_send:0.856075mJ                      NB_receive:0.494353mJ                   NB_sleep:0.303532mJ                     
+NB_listen:2.17033mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:108mJ                   GPS_Tracking:94.5mJ                     GPS_Sleep:0.23103mJ                     
+totalPower:206.555mJ
+[node 275]
+NB_idle:0mJ                             NB_send:0.795788mJ                      NB_receive:0.434066mJ                   NB_sleep:0.303532mJ                     
+NB_listen:2.17033mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:108mJ                   GPS_Tracking:94.5mJ                     GPS_Sleep:0.23103mJ                     
+totalPower:206.435mJ
+[node 276]
+NB_idle:0mJ                             NB_send:0.831961mJ                      NB_receive:0.470239mJ                   NB_sleep:0.303532mJ                     
+NB_listen:2.17033mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:108mJ                   GPS_Tracking:94.5mJ                     GPS_Sleep:0.23103mJ                     
+totalPower:206.507mJ
+[node 277]
+NB_idle:0mJ                             NB_send:0.735501mJ                      NB_receive:0.397894mJ                   NB_sleep:0.285785mJ                     
+NB_listen:2.04976mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:102mJ                   GPS_Tracking:89.25mJ                    GPS_Sleep:0.21753mJ                     
+totalPower:194.936mJ
+[node 278]
+NB_idle:0mJ                             NB_send:0.759616mJ                      NB_receive:0.422009mJ                   NB_sleep:0.285785mJ                     
+NB_listen:2.04976mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:102mJ                   GPS_Tracking:89.25mJ                    GPS_Sleep:0.21753mJ                     
+totalPower:194.985mJ
+[node 279]
+NB_idle:0mJ                             NB_send:0.747559mJ                      NB_receive:0.409952mJ                   NB_sleep:0.285785mJ                     
+NB_listen:2.04976mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:102mJ                   GPS_Tracking:89.25mJ                    GPS_Sleep:0.21753mJ                     
+totalPower:194.961mJ
+[node 280]
+NB_idle:0mJ                             NB_send:0.735501mJ                      NB_receive:0.422009mJ                   NB_sleep:0.268038mJ                     
+NB_listen:1.92918mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:96mJ                    GPS_Tracking:84mJ                       GPS_Sleep:0.20403mJ                     
+totalPower:183.559mJ
+[node 281]
+NB_idle:0mJ                             NB_send:0.711387mJ                      NB_receive:0.397894mJ                   NB_sleep:0.268038mJ                     
+NB_listen:1.92918mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:96mJ                    GPS_Tracking:84mJ                       GPS_Sleep:0.20403mJ                     
+totalPower:183.511mJ
+[node 282]
+NB_idle:0mJ                             NB_send:0.687272mJ                      NB_receive:0.373779mJ                   NB_sleep:0.268038mJ                     
+NB_listen:1.92918mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:96mJ                    GPS_Tracking:84mJ                       GPS_Sleep:0.20403mJ                     
+totalPower:183.462mJ
+[node 283]
+NB_idle:0mJ                             NB_send:0.675214mJ                      NB_receive:0.385837mJ                   NB_sleep:0.250291mJ                     
+NB_listen:1.80861mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:90mJ                    GPS_Tracking:78.75mJ                    GPS_Sleep:0.19053mJ                     
+totalPower:172.06mJ
+[node 284]
+NB_idle:0mJ                             NB_send:0.687272mJ                      NB_receive:0.397894mJ                   NB_sleep:0.250291mJ                     
+NB_listen:1.80861mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:90mJ                    GPS_Tracking:78.75mJ                    GPS_Sleep:0.19053mJ                     
+totalPower:172.085mJ
+[node 285]
+NB_idle:0mJ                             NB_send:0.663157mJ                      NB_receive:0.373779mJ                   NB_sleep:0.250291mJ                     
+NB_listen:1.80861mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:90mJ                    GPS_Tracking:78.75mJ                    GPS_Sleep:0.19053mJ                     
+totalPower:172.036mJ
+[node 286]
+NB_idle:0mJ                             NB_send:0.711387mJ                      NB_receive:0.422009mJ                   NB_sleep:0.250291mJ                     
+NB_listen:1.80861mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:90mJ                    GPS_Tracking:78.75mJ                    GPS_Sleep:0.19053mJ                     
+totalPower:172.133mJ
+[node 287]
+NB_idle:0mJ                             NB_send:0.639042mJ                      NB_receive:0.373779mJ                   NB_sleep:0.232544mJ                     
+NB_listen:1.68804mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:84mJ                    GPS_Tracking:73.5mJ                     GPS_Sleep:0.17703mJ                     
+totalPower:160.61mJ
+[node 288]
+NB_idle:0mJ                             NB_send:0.626985mJ                      NB_receive:0.361722mJ                   NB_sleep:0.232544mJ                     
+NB_listen:1.68804mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:84mJ                    GPS_Tracking:73.5mJ                     GPS_Sleep:0.17703mJ                     
+totalPower:160.586mJ
+[node 289]
+NB_idle:0mJ                             NB_send:0.590813mJ                      NB_receive:0.32555mJ                    NB_sleep:0.232544mJ                     
+NB_listen:1.68804mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:84mJ                    GPS_Tracking:73.5mJ                     GPS_Sleep:0.17703mJ                     
+totalPower:160.514mJ
+[node 290]
+NB_idle:0mJ                             NB_send:0.60287mJ                       NB_receive:0.361722mJ                   NB_sleep:0.214797mJ                     
+NB_listen:1.56746mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:78mJ                    GPS_Tracking:68.25mJ                    GPS_Sleep:0.16353mJ                     
+totalPower:149.16mJ
+[node 291]
+NB_idle:0mJ                             NB_send:0.578755mJ                      NB_receive:0.337607mJ                   NB_sleep:0.214797mJ                     
+NB_listen:1.56746mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:78mJ                    GPS_Tracking:68.25mJ                    GPS_Sleep:0.16353mJ                     
+totalPower:149.112mJ
+[node 292]
+NB_idle:0mJ                             NB_send:0.578755mJ                      NB_receive:0.337607mJ                   NB_sleep:0.214797mJ                     
+NB_listen:1.56746mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:78mJ                    GPS_Tracking:68.25mJ                    GPS_Sleep:0.16353mJ                     
+totalPower:149.112mJ
+[node 293]
+NB_idle:0mJ                             NB_send:0.518468mJ                      NB_receive:0.301435mJ                   NB_sleep:0.19705mJ                      
+NB_listen:1.44689mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:72mJ                    GPS_Tracking:63mJ                       GPS_Sleep:0.15003mJ                     
+totalPower:137.614mJ
+[node 294]
+NB_idle:0mJ                             NB_send:0.578755mJ                      NB_receive:0.361722mJ                   NB_sleep:0.19705mJ                      
+NB_listen:1.44689mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:72mJ                    GPS_Tracking:63mJ                       GPS_Sleep:0.15003mJ                     
+totalPower:137.734mJ
+[node 295]
+NB_idle:0mJ                             NB_send:0.578755mJ                      NB_receive:0.361722mJ                   NB_sleep:0.19705mJ                      
+NB_listen:1.44689mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:72mJ                    GPS_Tracking:63mJ                       GPS_Sleep:0.15003mJ                     
+totalPower:137.734mJ
+[node 296]
+NB_idle:0mJ                             NB_send:0.530526mJ                      NB_receive:0.313492mJ                   NB_sleep:0.19705mJ                      
+NB_listen:1.44689mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:72mJ                    GPS_Tracking:63mJ                       GPS_Sleep:0.15003mJ                     
+totalPower:137.638mJ
+[node 297]
+NB_idle:0mJ                             NB_send:0.506411mJ                      NB_receive:0.313492mJ                   NB_sleep:0.179303mJ                     
+NB_listen:1.32631mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:66mJ                    GPS_Tracking:57.75mJ                    GPS_Sleep:0.13653mJ                     
+totalPower:126.212mJ
+[node 298]
+NB_idle:0mJ                             NB_send:0.506411mJ                      NB_receive:0.313492mJ                   NB_sleep:0.179303mJ                     
+NB_listen:1.32631mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:66mJ                    GPS_Tracking:57.75mJ                    GPS_Sleep:0.13653mJ                     
+totalPower:134.025mJ
+[node 299]
+NB_idle:0mJ                             NB_send:0.482296mJ                      NB_receive:0.289378mJ                   NB_sleep:0.179303mJ                     
+NB_listen:1.32631mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:66mJ                    GPS_Tracking:57.75mJ                    GPS_Sleep:0.13653mJ                     
+totalPower:133.977mJ
+[node 300]
+NB_idle:0mJ                             NB_send:0.482296mJ                      NB_receive:0.313492mJ                   NB_sleep:0.161556mJ                     
+NB_listen:1.20574mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:60mJ                    GPS_Tracking:52.5mJ                     GPS_Sleep:0.12303mJ                     
+totalPower:114.786mJ
+[node 301]
+NB_idle:0mJ                             NB_send:0.470239mJ                      NB_receive:0.301435mJ                   NB_sleep:0.161556mJ                     
+NB_listen:1.20574mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:60mJ                    GPS_Tracking:52.5mJ                     GPS_Sleep:0.12303mJ                     
+totalPower:114.762mJ
+[node 302]
+NB_idle:0mJ                             NB_send:0.446124mJ                      NB_receive:0.27732mJ                    NB_sleep:0.161556mJ                     
+NB_listen:1.20574mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:60mJ                    GPS_Tracking:52.5mJ                     GPS_Sleep:0.12303mJ                     
+totalPower:114.714mJ
+[node 303]
+NB_idle:0mJ                             NB_send:0.409952mJ                      NB_receive:0.265263mJ                   NB_sleep:0.143809mJ                     
+NB_listen:1.08517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:54mJ                    GPS_Tracking:47.25mJ                    GPS_Sleep:0.10953mJ                     
+totalPower:103.264mJ
+[node 304]
+NB_idle:0mJ                             NB_send:0.409952mJ                      NB_receive:0.265263mJ                   NB_sleep:0.143809mJ                     
+NB_listen:1.08517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:54mJ                    GPS_Tracking:47.25mJ                    GPS_Sleep:0.10953mJ                     
+totalPower:103.264mJ
+[node 305]
+NB_idle:0mJ                             NB_send:2.02564mJ                       NB_receive:1.88095mJ                    NB_sleep:0.143809mJ                     
+NB_listen:1.08517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:54mJ                    GPS_Tracking:47.25mJ                    GPS_Sleep:0.10953mJ                     
+totalPower:106.495mJ
+[node 306]
+NB_idle:0mJ                             NB_send:0.422009mJ                      NB_receive:0.27732mJ                    NB_sleep:0.143809mJ                     
+NB_listen:1.08517mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:54mJ                    GPS_Tracking:47.25mJ                    GPS_Sleep:0.10953mJ                     
+totalPower:111.101mJ
+[node 307]
+NB_idle:0mJ                             NB_send:0.422009mJ                      NB_receive:0.301435mJ                   NB_sleep:0.126062mJ                     
+NB_listen:0.964592mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:48mJ                    GPS_Tracking:42mJ                       GPS_Sleep:0.09603mJ                     
+totalPower:91.9101mJ
+[node 308]
+NB_idle:0mJ                             NB_send:0.385837mJ                      NB_receive:0.265263mJ                   NB_sleep:0.126062mJ                     
+NB_listen:0.964592mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:48mJ                    GPS_Tracking:42mJ                       GPS_Sleep:0.09603mJ                     
+totalPower:91.8378mJ
+[node 309]
+NB_idle:0mJ                             NB_send:0.373779mJ                      NB_receive:0.253205mJ                   NB_sleep:0.126062mJ                     
+NB_listen:0.964592mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:48mJ                    GPS_Tracking:42mJ                       GPS_Sleep:0.09603mJ                     
+totalPower:99.6265mJ
+[node 310]
+NB_idle:0mJ                             NB_send:0.313492mJ                      NB_receive:0.217033mJ                   NB_sleep:0.108314mJ                     
+NB_listen:0.844018mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:42mJ                    GPS_Tracking:36.75mJ                    GPS_Sleep:0.08256mJ                     
+totalPower:80.3154mJ
+[node 311]
+NB_idle:0mJ                             NB_send:0.313492mJ                      NB_receive:0.217033mJ                   NB_sleep:0.108314mJ                     
+NB_listen:0.844018mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:42mJ                    GPS_Tracking:36.75mJ                    GPS_Sleep:0.08256mJ                     
+totalPower:80.3154mJ
+[node 312]
+NB_idle:0mJ                             NB_send:0.349665mJ                      NB_receive:0.253205mJ                   NB_sleep:0.108314mJ                     
+NB_listen:0.844018mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:42mJ                    GPS_Tracking:36.75mJ                    GPS_Sleep:0.08256mJ                     
+totalPower:80.3878mJ
+[node 313]
+NB_idle:0mJ                             NB_send:0.27732mJ                       NB_receive:0.180861mJ                   NB_sleep:0.0906034mJ                    
+NB_listen:0.723444mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:36mJ                    GPS_Tracking:31.5mJ                     GPS_Sleep:0.06903mJ                     
+totalPower:68.8413mJ
+[node 314]
+NB_idle:0mJ                             NB_send:0.265263mJ                      NB_receive:0.168804mJ                   NB_sleep:0.0906034mJ                    
+NB_listen:0.723444mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:36mJ                    GPS_Tracking:31.5mJ                     GPS_Sleep:0.06903mJ                     
+totalPower:68.8171mJ
+[node 315]
+NB_idle:0mJ                             NB_send:0.289378mJ                      NB_receive:0.192918mJ                   NB_sleep:0.0906034mJ                    
+NB_listen:0.723444mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:36mJ                    GPS_Tracking:31.5mJ                     GPS_Sleep:0.06903mJ                     
+totalPower:68.8654mJ
+[node 316]
+NB_idle:0mJ                             NB_send:0.27732mJ                       NB_receive:0.180861mJ                   NB_sleep:0.0906034mJ                    
+NB_listen:0.723444mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:36mJ                    GPS_Tracking:31.5mJ                     GPS_Sleep:0.06903mJ                     
+totalPower:68.8413mJ
+[node 317]
+NB_idle:0mJ                             NB_send:0.229091mJ                      NB_receive:0.156746mJ                   NB_sleep:0.0728563mJ                    
+NB_listen:0.60287mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:30mJ                    GPS_Tracking:26.25mJ                    GPS_Sleep:0.05556mJ                     
+totalPower:57.3671mJ
+[node 318]
+NB_idle:0mJ                             NB_send:0.229091mJ                      NB_receive:0.156746mJ                   NB_sleep:0.0728563mJ                    
+NB_listen:0.60287mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:30mJ                    GPS_Tracking:26.25mJ                    GPS_Sleep:0.05556mJ                     
+totalPower:57.3671mJ
+[node 319]
+NB_idle:0mJ                             NB_send:0.241148mJ                      NB_receive:0.168804mJ                   NB_sleep:0.0728563mJ                    
+NB_listen:0.60287mJ                     NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:30mJ                    GPS_Tracking:26.25mJ                    GPS_Sleep:0.05556mJ                     
+totalPower:57.3912mJ
+[node 320]
+NB_idle:0mJ                             NB_send:0.180861mJ                      NB_receive:0.108517mJ                   NB_sleep:0.0551452mJ                    
+NB_listen:0.482296mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:24mJ                    GPS_Tracking:21mJ                       GPS_Sleep:0.04203mJ                     
+totalPower:45.8688mJ
+[node 321]
+NB_idle:0mJ                             NB_send:0.192918mJ                      NB_receive:0.120574mJ                   NB_sleep:0.0551452mJ                    
+NB_listen:0.482296mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:24mJ                    GPS_Tracking:21mJ                       GPS_Sleep:0.04203mJ                     
+totalPower:45.893mJ
+[node 322]
+NB_idle:0mJ                             NB_send:0.168804mJ                      NB_receive:0.0964592mJ                  NB_sleep:0.0551452mJ                    
+NB_listen:0.482296mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:24mJ                    GPS_Tracking:21mJ                       GPS_Sleep:0.04203mJ                     
+totalPower:45.8447mJ
+[node 323]
+NB_idle:0mJ                             NB_send:0.144689mJ                      NB_receive:0.0964592mJ                  NB_sleep:0.0373981mJ                    
+NB_listen:0.361722mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:18mJ                    GPS_Tracking:15.75mJ                    GPS_Sleep:0.02856mJ                     
+totalPower:34.4188mJ
+[node 324]
+NB_idle:0mJ                             NB_send:0.132631mJ                      NB_receive:0.0844018mJ                  NB_sleep:0.0373981mJ                    
+NB_listen:0.361722mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:18mJ                    GPS_Tracking:15.75mJ                    GPS_Sleep:0.02856mJ                     
+totalPower:34.3947mJ
+[node 325]
+NB_idle:0mJ                             NB_send:0.132631mJ                      NB_receive:0.0844018mJ                  NB_sleep:0.0373981mJ                    
+NB_listen:0.361722mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:18mJ                    GPS_Tracking:15.75mJ                    GPS_Sleep:0.02856mJ                     
+totalPower:42.2075mJ
+[node 326]
+NB_idle:0mJ                             NB_send:0.132631mJ                      NB_receive:0.0844018mJ                  NB_sleep:0.0373981mJ                    
+NB_listen:0.361722mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:7.8128mJ                      
+GPS_Acquisition:18mJ                    GPS_Tracking:15.75mJ                    GPS_Sleep:0.02856mJ                     
+totalPower:42.2075mJ
+[node 327]
+NB_idle:0mJ                             NB_send:0.0964592mJ                     NB_receive:0.0482296mJ                  NB_sleep:0.019687mJ                     
+NB_listen:0.241148mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:12mJ                    GPS_Tracking:10.5mJ                     GPS_Sleep:0.01503mJ                     
+totalPower:22.9206mJ
+[node 328]
+NB_idle:0mJ                             NB_send:0.0844018mJ                     NB_receive:0.0361722mJ                  NB_sleep:0.019687mJ                     
+NB_listen:0.241148mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:12mJ                    GPS_Tracking:10.5mJ                     GPS_Sleep:0.01503mJ                     
+totalPower:22.8964mJ
+[node 329]
+NB_idle:0mJ                             NB_send:0.0844018mJ                     NB_receive:0.0361722mJ                  NB_sleep:0.019687mJ                     
+NB_listen:0.241148mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:12mJ                    GPS_Tracking:10.5mJ                     GPS_Sleep:0.01503mJ                     
+totalPower:22.8964mJ
+[node 330]
+NB_idle:0mJ                             NB_send:0.0361722mJ                     NB_receive:0.0120574mJ                  NB_sleep:0.00373622mJ                   
+NB_listen:0.120574mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:6mJ                     GPS_Tracking:5.25mJ                     GPS_Sleep:0.00303mJ                     
+totalPower:11.4256mJ
+[node 331]
+NB_idle:0mJ                             NB_send:0.0361722mJ                     NB_receive:0.0120574mJ                  NB_sleep:0.00373622mJ                   
+NB_listen:0.120574mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:6mJ                     GPS_Tracking:5.25mJ                     GPS_Sleep:0.00303mJ                     
+totalPower:11.4256mJ
+[node 332]
+NB_idle:0mJ                             NB_send:0.0482296mJ                     NB_receive:0.0241148mJ                  NB_sleep:0.00373622mJ                   
+NB_listen:0.120574mJ                    NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:6mJ                     GPS_Tracking:5.25mJ                     GPS_Sleep:0.00303mJ                     
+totalPower:11.4497mJ
+[node 333]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 334]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 335]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 336]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 337]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 338]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 339]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 340]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 341]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 342]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 343]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 344]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 345]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 346]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 347]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 348]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 349]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 350]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 351]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 352]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 353]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 354]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 355]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 356]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 357]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 358]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 359]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 360]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 361]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 362]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 363]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 364]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 365]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 366]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 367]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 368]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 369]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 370]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 371]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 372]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 373]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 374]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 375]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 376]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 377]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 378]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 379]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 380]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 381]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 382]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 383]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 384]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 385]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 386]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 387]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 388]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 389]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 390]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 391]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 392]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 393]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 394]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 395]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 396]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 397]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 398]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 399]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ
+[node 400]
+NB_idle:0mJ                             NB_send:0mJ                             NB_receive:0mJ                          NB_sleep:0mJ                            
+NB_listen:0mJ                           NB_shutdown:0mJ                         LOCK_CLOSE:0mJ                          LOCK_OPEN:0mJ                           
+GPS_Acquisition:0mJ                     GPS_Tracking:0mJ                        GPS_Sleep:0mJ                           
+totalPower:0mJ

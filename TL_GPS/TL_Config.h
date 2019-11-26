@@ -1,0 +1,13 @@
+#ifndef TL_CONFIG_H
+#define TL_CONFIG_H
+#include "TL_Device_ID.h"
+#define PLATFORM 1
+#define BOARD 1002
+#define TINYLINK_HTTP ARDUINO_HTTP
+#define TINYLINK_TIME ARDUINO_TIME
+#define TINYLINK_WIFI ESP8266
+#define WIFI_UART_RX 1
+#define WIFI_UART_TX 0
+#define TINYLINK_LIGHT GROVE_LIGHT
+#define LIGHT_ANALOG A0
+#endif

@@ -1,0 +1,3 @@
+gcc -c -fPIC -shared client.c -o libmycoap.so -lcoap -I /usr/local/include/libcoap -O2 -D_GNU_SOURCE -DWITH_POSIX
+sudo cp libmycoap.so /usr/lib/
+g++ -std=c++11 test.cpp TL_COAP.cpp  -o test -lmycoap -lcoap -lpthread -I /usr/local/include/libcoap/ -O2 -D_GNU_SOURCE -DWITH_POSIX
